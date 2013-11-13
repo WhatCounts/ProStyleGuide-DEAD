@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link href="css/css_002.css" rel="stylesheet" type="text/css">
+    <link href="css/css.css" rel="stylesheet" type="text/css">
+    <link href="css/css_003.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/whatcounts.css">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/flat-ui.css" rel="stylesheet" type="text/css">
+    <link href="css/flat-ui-professional-overrides.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/style_guide.css">
+    <title>What Counts: Style Guide</title>
+</head>
+
+<body>
+<div id="MenuBarContainer">
+    <div id="MenuBar">
+        <ul class="group top-nav" id="Nav">
+            <li id="WhatCountsLogo" class="logo"><a href="http://localhost:8080/bin/front"><img src="img/top-logo.png" border="0"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<p>&nbsp;</p>
+
+<div class="master-box" id="PageContainer">
+<h1 class="centered" id="StyleGuide-StyleGuide">Style Guide</h1>
+
+<br>
+
+<section id="Introduction" class="grid-unit one-section">
+    <h2 id="StyleGuide-Introduction">Introduction</h2>
+
+    <p>This is more than a simple style guide. While it does define styling and usability guidelines for What Counts,
+        it is also a library of examples. Developers can review the code here to find examples of how to implement HTML
+        elements and page elements (widgets) in their presentation code in a way that maintains a consistent look, feel,
+        and user experience across the What Counts platform. All the code on the Style Guide conforms to the standards
+        defined by the Style Guide. Therefore, it is also a practical library of code widgets for copying and modifying—which
+        is encouraged, as it will help facilitate markup consistency.</p>
+
+    <p>This is not an exhaustive style guide. It does not stipulate the conditions necessary to create a pixel-perfect
+        website. Rather, it is intended to help create consistency in look and use; therefore, pixel dimensions and
+        red-lines have not been included, as they exceed the intent and scope of the style guide.
+    </p>
+
+</section>
+
+<section id="TOCSection" class="grid-unit one-section">
+    <h2 id="StyleGuide-Toc"><a name="TOC">Table of Contents</a></h2>
+
+    <ol>
+        <li><a href="#Layout">Layout</a></li>
+        <li><a href="#Branding">Branding</a></li>
+        <li><a href="#Navigation">Navigation</a></li>
+        <li><a href="#HtmlElements">Html Elements</a></li>
+        <li><a href="#Media">Media</a></li>
+        <li><a href="#Assets">Assets</a></li>
+        <li><a href="#CodingGuidelines">Coding Guidelines</a></li>
+    </ol>
+    <p>&nbsp;</p>
+</section>
+
+<section id="LayoutSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-1.Layout"><a name="Layout">1. Layout</a></h2>
+
+    <h3 id="StyleGuide-Grid">1200 Grid</h3>
+
+    <p>The overall layout of the site should conform to a 1200 grid, where the content of the page is centered. This grid uses 12 columns so it can easily be used as 2, 3 or 4 columns. Each column is still based on 15px margin on the left and right.</p>
+
+<img id="grid1200" src="img/1200_12_15_15.png" width="1200" height="645" />
+
+    <p>&nbsp;</p>
+
+    <h3>BootStrap Grid Units</h3>
+    <p>This is the setup for Bootstraps grid system for responsiveness. To learn more about Bootstrap Grids visit <a href="http://getbootstrap.com/css/#grid">http://getbootstrap.com/css/#grid</a></p>
+<div id="BootstrapGrid">
+  <div class="bs-docs-grid">
+        <div class="row show-grid">
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+            <div class="col-md-1">.col-md-1</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-md-8">.col-md-8</div>
+            <div class="col-md-4">.col-md-4</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-md-4">.col-md-4</div>
+            <div class="col-md-4">.col-md-4</div>
+            <div class="col-md-4">.col-md-4</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-md-6">.col-md-6</div>
+            <div class="col-md-6">.col-md-6</div>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="bs-docs-grid">
+        <div class="row show-grid">
+            <div class="col-xs-12 col-md-8">.col-xs-12 .col-md-8</div>
+            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-xs-6">.col-xs-6</div>
+            <div class="col-xs-6">.col-xs-6</div>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="bs-docs-grid">
+        <div class="row show-grid">
+            <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
+            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+        </div>
+        <div class="row show-grid">
+            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+            <!-- Optional: clear the XS cols if their content doesn't match in height -->
+            <div class="clearfix visible-xs"></div>
+            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+        </div>
+    </div>
+  </div>
+
+    <br>
+
+    <h3 id="StyleGuide-JQueryUI">Flat UI</h3>
+
+    <p>Flat UI, utilizing Bootstrap—which utilizes both Bootstrap-specific JS, and jQuery-UI—will provide
+        both styling and functionality for dialog boxes. See <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+        for more information.</p>
+
+    <h3 id="StyleGuide-Tabs">Tabs</h3>
+
+    <div class="tabbable">
+        <ul class="nav nav-tabs nav-append-content">
+            <li class=""><a href="#tab4">Popular</a></li>
+            <li class="active"><a href="#tab5">Newest</a></li>
+            <li><a href="#tab6">Bestselling</a></li>
+            <li class="dropdown">
+                <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+                    Dropdown
+                    <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#tab5">Newest</a></li>
+                    <li><a href="#tab6">Bestselling</a></li>
+                </ul>
+            </li>
+        </ul>
+        <!-- /tabs -->
+        <div class="tab-content">
+            <div id="tab4" class="tab-pane">
+                <p>I'm in Section 1.</p>
+            </div>
+            <div id="tab5" class="tab-pane active">
+                <p>Howdy, I'm in Section 2.</p>
+            </div>
+            <div id="tab6" class="tab-pane">
+                <p>Howdy, I'm in Section 3.</p>
+            </div>
+        </div>
+        <!-- /tab-content -->
+    </div>
+
+    <p>&nbsp;</p>
+
+    <h3 id="StyleGuide-Fonts">Fonts</h3>
+
+    <p>Large, bold text—declining to normal, non-bold text—should be used to establish a clear information
+        hierarchy. All titles or sub titles should be marked with their appropriate heading tag (h1, h2, &amp;c.). All pages
+        should, at the least, employ a <a href="#HtmlElements">Page Title</a> and contain a content body that contains
+        either a paragraph, graphic, or table. No special text formatting is required, or allowed, beyond that provided
+        by default. If all text is appropriately marked with the semantically correct HTML tags, the correct formatting
+        will be applied.
+    </p>
+
+    <p>All text on the site should conform to the font-family hierarchy:</p>
+    <pre>     "Lato",Helvetica,Arial,sans-serif;</pre>
+</section>
+
+<section id="BrandingSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-2.Branding"><a name="Branding">2. Branding</a></h2>
+    <small><a href="#TOC">top</a></small>
+
+    <h3 id="StyleGuide-Logos">Logos</h3>
+
+    <p>The following logos are valid for use on the site:</p>
+    <ul>
+        <li>Menu Header: <img src="img/logo.png" alt="Logo" title="Logo"></li>
+    </ul>
+
+</section>
+
+<section id="NavigationSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-4.Navigation"><a name="Navigation">4. Navigation</a></h2>
+    <small><a href="#TOC">top</a></small>
+
+
+    <h3>Primary Navigation: The Navigation Menu</h3>
+
+    <p>The navigation Menu is the only valid place where the What Counts logo may be placed. It must have an id of
+        "NavMenu". It then contains an Unordered List. Each main menu topic that contains sub-content must have
+        a class of "has-sub". Each sub-item that contains flyout content, must contain a class "set-sub toggle-nav".
+
+    </p><h3><a name="Links">Text Links</a></h3>
+
+    <p>Links are styled by default. You do not need to emend additional styling. In fact, additional styling of text
+        links is not permitted. Text inks should be blue (#3498DB). Link hover state should be green (#1ABC9C). Text
+        links should only be used for navigation. Navigation takes a user from one
+        location to another location. For actions, use <a href="#Buttons">Buttons</a>.</p>
+
+    <p>Below is an example of a text link:</p>
+
+    <div class="example"><a href="http://localhost:8080/style_guide/www.whatcounts.com">What Counts</a></div>
+
+    <h3>Searching and Filtering</h3>
+
+    <p>Filter fields may precede a table. By default filters function on all columns in the table.</p>
+
+    <div class="example">
+        <label for="ExampleFilter">Filter: </label>
+        <input id="ExampleFilter" placeholder="(Filter by Name)" type="text">
+    </div>
+
+
+</section>
+
+<section id="HtmlElementsSection" class="grid-unit one-section">
+
+<h2 id="StyleGuide-5.HTMLelements"><a name="HtmlElements">5. HTML elements</a></h2>
+<small><a href="#TOC">top</a></small>
+
+<h3 id="StyleGuide-PageBody">Page Body</h3>
+
+<p>No formatting is required for the page body. All text is formatted correctly by default. If appropriate semantic HTML
+    tagging is used, then all text should be formatted according to specifications. This text is an example of page body
+    text.</p>
+<pre>body {
+    font-size: 13px;
+    color: #34495E;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    line-height: 1.72222;
+}</pre>
+<p>&nbsp;</p>
+
+<h3 id="StyleGuide-PageTitles-H1">Page Titles - h1</h3>
+
+<p>All pages should have a Page Title. The Page Title is placed after the &lt;div id="container" ..."&gt; tag. The Page
+    Title should be wrapped by an &lt;h1&gt; tag, and will have the following styles:</p>
+
+<div class="example"><h1>Page Title</h1></div>
+<p>&nbsp;</p>
+<pre>{
+    font-size: 24px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: inherit;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+}</pre>
+
+
+<h3 id="StyleGuide-PageSectionTitles-H2">Page Section Titles - h2</h3>
+
+<p>Pages can have one or more Section Titles. A Section Title should be wrapped by an &lt;h2&gt; tag, and should
+    have the following styles:</p>
+
+<div class="example"><h2>Page Section</h2></div>
+<p>&nbsp;</p>
+<pre>{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: inherit;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+}</pre>
+
+<h3 id="StyleGuide-PageSectionTitles-H2">Page Sub-Section Title - h3</h3>
+
+<p>Pages can have one or more Sub Section Titles. A Section Title should be wrapped by an &lt;h2&gt; tag, and should have the following styles:</p>
+
+<div class="example"><h3>Page Section</h3></div>
+<p>&nbsp;</p>
+<pre>{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: inherit;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+}</pre>
+
+
+<h3 id="StyleGuide-Standard-HTML-Elements">Standard HTML Elements</h3>
+
+<p>Unless otherwise specified, all HTML elements will render with their standard presentation. This includes (but is not
+    limited to):</p>
+<ul>
+    <li>Lists</li>
+    <li>Fieldsets</li>
+    <li>Paragraphs</li>
+</ul>
+
+<h3 id="StyleGuide-Forms">Forms</h3>
+
+<p>All forms must have fieldsets that logically group the sets of fields contained on the form.</p>
+
+<p>Form with fieldset and legend:</p>
+
+<div class="example">
+    <form>
+        <fieldset>
+            <legend>Sample Fieldset</legend>
+            <label>TestField:</label>:<br>
+            <input name="TestField" type="text">
+        </fieldset>
+    </form>
+</div>
+<br>
+
+<div class="example">
+    <p>Form table, without legend</p>
+
+    <form>
+        <fieldset>
+            <label>TestField:</label>:<br>
+            <input name="TestField" type="text">
+        </fieldset>
+    </form>
+
+</div>
+
+<h3 id="StyleGuide-Selects">Selects, Checkboxes, and Radio Buttons</h3>
+
+<p>Selects, checkboxes, and radio buttons are implemented using a standard HTML tags; however, they are
+    automatically converted at display time by the system. Select boxes do not require meta tags to correctly
+    render. Checkboxes and radio buttons require a label, and a data attribute to correctly render. The label must have
+    a class of the input type (i.e., checkbox, or radio), and the input must have a "data-toggle" attribute, also
+    of the input type (i.e., checkbox, or radio). Examples are below:</p>
+
+<div class="example">
+    <select style="display: none;" id="StyleGuideExmapleSelect">
+        <option selected="selected">Option one</option>
+        <option>Option two</option>
+        <option>Option three</option>
+    </select><div class="btn-group select"><i class="dropdown-arrow dropdown-arrow-inverse"></i><button id="StyleGuideExmapleSelect" class="btn dropdown-toggle clearfix btn-info" data-toggle="dropdown"><span class="filter-option pull-left">Option one</span>&nbsp;<span class="caret"></span></button><ul style="max-height: 769.733px; overflow-y: auto; min-height: 108px;" class="dropdown-menu dropdown-inverse" role="menu"><li class="selected" rel="0"><a tabindex="-1" href="#" class=""><span class="pull-left">Option one</span></a></li><li rel="1"><a tabindex="-1" href="#" class=""><span class="pull-left">Option two</span></a></li><li rel="2"><a tabindex="-1" href="#" class=""><span class="pull-left">Option three</span></a></li></ul></div>
+</div>
+
+<br>
+
+<div class="example">
+    <label class="radio"><span class="icons"><span class="first-icon fui-radio-unchecked"></span><span class="second-icon fui-radio-checked"></span></span><input data-toggle="radio" type="radio">Test </label>
+</div>
+
+<div class="example">
+    <label class="checkbox"><span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span class="second-icon fui-checkbox-checked"></span></span><input data-toggle="checkbox" type="checkbox">Test </label>
+</div>
+
+
+<h3 id="StyleGuide-TextInputs">Inputs</h3>
+
+<p>Inputs do not require a specific CSS class, unless their size needs to be changed. Inputs are styled by default.
+    Inputs should have their
+    type attribute set to their appropriate type, for example (not inclusive):</p>
+<ul>
+    <li>text</li>
+    <li>month</li>
+    <li>number</li>
+    <li>email</li>
+    <li>password</li>
+    <li>range</li>
+    <li>search</li>
+    <li>time</li>
+</ul>
+<p>Inputs should have a valid id attribute, and an associated label.</p>
+
+<p>Input fields will have background highlighting when they are in focus, for example:</p>
+
+<div class="example">
+    <label for="ExampleTextInput">Example Text Input: </label>
+    <input id="ExampleTextInput" type="text">
+</div>
+
+<p>This is not true of radio button sets, check box sets, or select boxes.</p>
+
+<h4>Inputs with Errors</h4>
+
+<p>Input fields that display errors should implement the "error-field" class. In addition, they should contain error
+    text centered below them, in a span that implements the "error" class. The following is an example:</p>
+
+<p>
+
+</p><div class="example"><label for="ExampleError">Example Error: </label>
+    <input id="ExampleError" class="error-field" type="text"><br>
+    <span class="error centered">Place error message here</span>
+</div>
+<p></p>
+<p>
+    </p><pre>input.error-field{
+        background-color: #FCDEDE;
+}
+    </pre>
+<p></p>
+
+<h3 id="StyleGuide-Buttons"><a name="Buttons">Buttons</a></h3>
+
+<p>Buttons should be used to indicate to a user that an action is possible. Actions are verbs, such as:</p>
+
+<ul>
+    <li>Add</li>
+    <li>Save</li>
+    <li>Copy</li>
+    <li>Delete</li>
+    <li>Cancel</li>
+</ul>
+<p>
+    Actions are actions from the user's perspective, not the application's. Therefore, there are times when it is
+    appropriate to use a button to navigate to a page—as in a Cancel operation, when the application may redirect
+    the user from one page to another.</p>
+
+<p>Links should never be used for actions. Links should be used to create connections between pages. See <a href="#Links">Links</a>
+    for more information.</p>
+
+<p>Button action names should be descriptive. The name should clearly describe the action. Prefer clarity to brevity,
+    for example—prefer "Add Subscriber" to "Add".</p>
+
+<p>Disable buttons when their actions are not or should not be available to users. This follows the rule of least
+    access.</p>
+
+<p>All buttons should be button tags: &lt;button&gt;. Buttons should have an id, and implement the class "btn btn-info".
+    They should contain no action attributes, such as "onclick"; however, they may contain custom data
+    attributes (e.g., data-). All functionality associated with a button should be appended by JavaScript on page
+    load.</p>
+
+<div class="example">
+    <button id="MyTestButton" data-some-entity-id="2107" class="btn btn-info">My Test Button</button>
+</div>
+
+<h4>Button sizes</h4>
+
+<p>Buttons come in several sizes: </p>
+<ul>
+    <li>Large</li>
+    <li>Default</li>
+    <li>Small (btn-sm)</li>
+    <li>Extra small button (btn-xs)</li>
+</ul>
+<p>Standard buttons are the default button to use in all instances, except buttons embedded in table rows.</p>
+
+
+<p>Extra small buttons are for use inside tables—for example, when adding row-level actions. Extra small buttons
+    must implement the "btn-xs" class, in addition to the other button classes (btn btn-info), for example:</p>
+
+<div class="example">
+    <button class="btn btn-info btn-xs">Click Me!</button>
+</div>
+<br>
+
+<h4>Button Placement</h4><a name="ButtonPlacement"></a>
+
+<h5>Page</h5>
+
+<p>When actions apply to data in a table, represented by dropdown buttons/selects, the buttons should appear above the
+    table.They should be left-aligned—with
+    the exception of delete buttons, which should be right aligned.</p>
+
+<table class="table table-striped table-hover" id="ButtonPlacementExample">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Ultimate Frisbee Handicap</th>
+        <th>
+            <select style="display: none;" id="TableActions">
+                <option selected="selected">Test</option>
+            </select><div class="btn-group select"><i class="dropdown-arrow dropdown-arrow-inverse"></i><button id="TableActions" class="btn dropdown-toggle clearfix btn-info" data-toggle="dropdown"><span class="filter-option pull-left">Test</span>&nbsp;<span class="caret"></span></button><ul style="overflow-y: auto; min-height: 114px; max-height: 259.167px;" class="dropdown-menu dropdown-inverse" role="menu"><li class="selected" rel="0"><a tabindex="-1" href="#" class=""><span class="pull-left">Test</span></a></li></ul></div>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr id="22">
+        <td class="filterName">Bob Dylan</td>
+        <td>68</td>
+        <td colspan="2">1</td>
+    </tr>
+    <tr id="34">
+        <td class="filterName">Dave Matthews</td>
+        <td>43</td>
+        <td colspan="2">22</td>
+    </tr>
+    </tbody>
+</table>
+<p>When actions apply to form data, the actions should appear at the bottom of the form. Cancel buttons should be the
+    first button in any action button set. Action buttons should be right aligned.</p>
+
+<div class="example">
+    <form>
+        <fieldset>
+            <legend>Example form with buttons</legend>
+            <p>
+                <label for="ItemOne">Item One:</label>
+                <input id="ItemOne" type="text">
+            </p>
+
+            <div class="pull-left">
+                <button id="CancelOne" class="btn btn-info">Cancel</button>
+                &nbsp;
+                <button id="SaveOne" class="btn btn-info">Save</button>
+            </div>
+            <div class="pull-right">
+                <button id="DeleteOne" class="btn btn-info">Delete</button>
+            </div>
+            <div class="clear"></div>
+        </fieldset>
+    </form>
+</div>
+
+<h5>Dialog Box</h5>
+
+<p>Buttons on a dialog box should always appear right-aligned, on the bottom of the dialog box. See <a href="#DialogBox">Dialog Box</a> for more detail.</p>
+
+<h5>Delete Buttons</h5>
+
+<p>Delete buttons should be separated from other sets of action buttons, being placed on the opposite side of the page,
+    to reduce the possibility of accidental deletions.</p>
+
+<div id="ButtonExampleContainer" class="example">
+    <div class="pull-left">
+        <button class="btn btn-info" id="Save">Save</button>
+        <button class="btn btn-info" id="CopyButton">Copy</button>
+    </div>
+    <div class="pull-right">
+        <button class="btn btn-info" id="Delete">Delete</button>
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+<h3 id="StyleGuide-Tables">Tables</h3>
+
+<p>Use tables only for tabular data. Use CSS columns for columnar layout. Use of tables is acceptable for aligning field
+    labels and fields on forms. Data tables and form tables differ in their presentation. See below for more
+    information.</p>
+
+<p>All data tables should contain the following tags:</p>
+<ul>
+    <li>table</li>
+    <li>thead (if has header)
+        <ul>
+            <li>th (if has header)</li>
+        </ul>
+    </li>
+    <li>tbody</li>
+    <li>tr</li>
+    <li>td</li>
+</ul>
+Required and Available table classes:
+<ul>
+    <li>table table-striped table-hover</li>
+    <li>.number-cell - Used to right align numbers in a table cell</li>
+    <li>.action-cell - Used to center buttons in a table cell</li>
+</ul>
+Required Attributes
+<ul>
+    <li>All tables must have an ID attribute.</li>
+</ul>
+<p>All tables that implement the table-sort class are made sortable automatically by the system. You can make other
+    tables sortable, by calling the $(selector).tablesorter() method, with options, provided to allow for specialized
+    table sorting. See the section on <a href="#ButtonPlacement">Button Placement</a> for an example.</p>
+
+<p>The following table is Sortable:</p>
+
+<table class="table table-striped table-hover table-sort">
+    <thead>
+    <tr>
+        <th class="header">Name</th>
+        <th class="header">Type</th>
+        <th class="header">Pattern</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr id="12">
+        <td class="filterName">Steve McQueen</td>
+        <td>Bullit</td>
+        <td>Awesomeness</td>
+    </tr>
+    <tr id="14">
+        <td class="filterName">James Dean</td>
+        <td>East of Eden</td>
+        <td>Brooding</td>
+    </tr>
+    <tr id="19">
+        <td class="filterName">Victor Mature</td>
+        <td>Samson and Delilah</td>
+        <td>Immature</td>
+    </tr>
+    </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>Form Tables</h3>
+
+<p>Tables may be used to organize the presentation of columnar field sets in a form. In this case, the tables must
+    implement the "form-table" class. Form tables are not allowed to have a thead or its children (except for tr). Below
+    is an example:</p>
+
+<div class="example">
+    <form>
+        <fieldset>
+            <legend>My Sample Form</legend>
+            <table>
+                <tbody>
+                <tr>
+                    <td><label for="AgeInput">Age:</label></td>
+                    <td><input id="AgeInput" type="number"></td>
+                </tr>
+                <tr>
+                    <td><label for="CerealInput">Cereal Affiliation:</label></td>
+                    <td><input id="CerealInput" type="text"></td>
+                </tr>
+                </tbody>
+            </table>
+        </fieldset>
+    </form>
+</div>
+
+</section>
+
+<section id="MediaSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-6.Media"><a name="Media">6. Media</a></h2>
+    <small><a href="#TOC">top</a></small>
+
+    <p>Not implemented (yet...).</p>
+
+</section>
+
+<section id="AssetsSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-7.Assets"><a name="Assets">7. Assets</a></h2>
+    <small><a href="#TOC">top</a></small>
+
+    <h3 id="StyleGuide-Glyphs">Glyphs</h3>
+
+    <p>Glyphs are appropriate to use in place of buttons to facilitate an action in locations where space is at a
+        premium, such as table cells. Prefer to buttons to Glyphs for page actions in all other instances. The exception
+        to this rule is standard internet memes, such as a play icon to begin the playback of rich media.</p>
+
+    <p>Glyphs can be used to augment system messages, by providing a visual cue. An example is using the Alert icon
+        (<img src="img/action_alert.gif" alt="Information Alert" title="Alert: Information">) paired with a
+        sysmtem warning.
+    </p>
+
+    <p>All Glyphs should have a title that explains their meaning.</p>
+
+    <div class="example demo-icons">
+        <span class="fui-info " title="More Information"></span>
+    </div>
+
+
+    <p>Available glyphs are below:</p>
+
+    <div class="demo-row">
+        <h3 class="demo-title">Glyphs
+            <small>(52)</small>
+        </h3>
+        <div class="demo-content demo-icons">
+            <span class="fui-info"></span>
+            <span class="fui-alert"></span>
+            <span class="fui-question"></span>
+            <span class="fui-window"></span>
+            <span class="fui-windows"></span>
+            <span class="fui-upload"></span>
+            <span class="fui-arrow-right"></span>
+            <span class="fui-arrow-left"></span>
+            <span class="fui-loop"></span>
+            <span class="fui-cmd"></span>
+            <span class="fui-mic"></span>
+            <span class="fui-export"></span>
+            <span class="fui-check-inverted"></span>
+            <span class="fui-heart"></span>
+            <span class="fui-location"></span>
+            <span class="fui-plus"></span>
+            <span class="fui-check"></span>
+            <span class="fui-cross"></span>
+            <span class="fui-list"></span>
+            <span class="fui-new"></span>
+            <span class="fui-video"></span>
+            <span class="fui-photo"></span>
+            <span class="fui-volume"></span>
+            <span class="fui-time"></span>
+            <span class="fui-eye"></span>
+            <span class="fui-chat"></span>
+            <span class="fui-home"></span>
+            <span class="fui-search"></span>
+            <span class="fui-user"></span>
+            <span class="fui-mail"></span>
+            <span class="fui-lock"></span>
+            <span class="fui-power"></span>
+            <span class="fui-star"></span>
+            <span class="fui-calendar"></span>
+            <span class="fui-gear"></span>
+            <span class="fui-book"></span>
+            <span class="fui-exit"></span>
+            <span class="fui-trash"></span>
+            <span class="fui-folder"></span>
+            <span class="fui-bubble"></span>
+            <span class="fui-cross-inverted"></span>
+            <span class="fui-plus-inverted"></span>
+            <span class="fui-calendar-solid"></span>
+            <span class="fui-star-2"></span>
+            <span class="fui-credit-card"></span>
+            <span class="fui-clip"></span>
+            <span class="fui-link"></span>
+            <span class="fui-pause"></span>
+            <span class="fui-play"></span>
+            <span class="fui-tag"></span>
+            <span class="fui-document"></span>
+            <span class="fui-image"></span>
+        </div>
+        <!-- /icon font row -->
+    </div>
+
+    <div class="clearfix"></div>
+
+    <p>&nbsp;</p>
+
+    <h3 id="StyleGuide-Backgrounds">Backgrounds</h3>
+
+    <p>The web site has a default background provided by the stylesheet. Additional backgrounds may be used anywhere in
+        the
+        site to augment elements inside the main content area, as long as they do not interfere with or override the
+        default
+        background. They must also conform to the <a href="#Branding">color palette</a>, and align with the <a href="#Layout">grid</a>.</p>
+
+    <p>Backgrounds are the preferred method for implementing decorative or informational Glyphs, while img tags are the
+        preferred method for implementing action Glyphs. For more information on Glyphs, see <a href="#Assets">Assets</a>.
+    </p>
+
+    <h3 id="StyleGuide-DialogBox"><a name="DialogBox">Dialog Box</a></h3>
+
+    <p>Dialog boxes should be constructed using Bootstrap modals. You can launch a modal by adding data attributes to
+        the button you want the modal to launch from. Two attributes are required: data-toggle="modal", and
+        data-target="#IdOfModal". An example is below, that uses data attributes to launch the modal:</p>
+
+    <p>
+        <button id="OpenDialog" class="btn btn-info" data-toggle="modal" data-target="#ExampleModal">Open Dialog
+        </button>
+    </p>
+
+    <div class="modal fade" id="ExampleModal" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close fui-cross" data-dismiss="modal" aria-hidden="true"></button>
+                    <h3>Example Modal</h3>
+                </div>
+                <div class="modal-body">
+
+                    <h2>I'm a modal</h2>
+
+                </div>
+                <div class="modal-footer">
+                    <button id="ModalClose" class="btn btn-info">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <h3 id="StyleGuide-StatusMessages">Status Messages</h3>
+
+    <p>Status messages communicate important messages from the system, such as the success or failure of an asynchronous
+        event. They are always placed in the top row of the table that displays the impacted data.</p>
+
+    <div class="example">
+        <div class="status-message success-message"><strong>Success!</strong> Your operation completed
+            successfully.<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+    </div>
+    <br>
+
+    <div class="example">
+        <div class="status-message warning-message"><strong>Attention!</strong> Action required!<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+    </div>
+    <br>
+
+    <div class="example">
+        <div class="status-message error-message"><strong>Oops!</strong> Your operation failed!<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+    </div>
+</section>
+
+<section id="CodingGuidelinesSection" class="grid-unit one-section">
+
+    <h2 id="StyleGuide-8.CodingGuidelines"><a name="CodingGuidelines">8. Coding Guidelines</a></h2>
+    <small><a href="#TOC">top</a></small>
+    <h3>CSS Casing</h3>
+
+    <p>All ID elements should be TitleCase. All class elements should be hyphenated-names. All HTML elements should be
+        lower
+        case.</p>
+<pre> #ExampleId{
+     //Style here
+ }
+
+ .example-class{
+     //Style here
+ }
+
+ div{
+     //Style here
+ }
+</pre>
+
+    <h3>Style Sections</h3>
+
+    <p>Include style-sections in style sheets, grouping like items. Sections are demarcated by CSS comments, for
+        example:</p>
+
+   <pre>/*SECTION NAME*/
+.css-class{
+    //Styles here
+}</pre>
+</section>
+
+</div>
+
+<script type="text/javascript" src="js/jquery-1.js"></script>
+<script type="text/javascript" src="js/jquery-migrate-1.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/docCookies.js"></script>
+<script type="text/javascript" src="js/utils.js"></script>
+<script type="text/javascript" src="js/allPages.js"></script>
+<script type="text/javascript" src="js/jquery_002.js"></script>
+<script type="text/javascript" src="js/flatui-checkbox.js"></script>
+<script type="text/javascript" src="js/flatui-radio.js"></script>
+<script type="text/javascript" src="js/bootstrap-select.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery_003.js"></script>
+<script type="text/javascript" src="js/jquery_004.js"></script>
+<script type="text/javascript" src="js/validators.js"></script>
+<script type="text/javascript" src="js/WhatCountsNamespace.js"></script>
+<script type="text/javascript" language="javascript" src="js/StyleGuide.js"></script>
+
+</body></html>

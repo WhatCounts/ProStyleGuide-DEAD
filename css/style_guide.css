@@ -3,8 +3,8 @@
 #PageContainer{
 max-width: 1200px;
 min-width: 940px;
-padding: 0;
-margin: 0px auto;
+padding: 15px 0;
+margin: 25px auto;
 }
 
 Section{
@@ -32,9 +32,10 @@ margin-left: -15px;
     padding-top: 10px;
 }
 
-pre {
+xmp {
     background: none repeat scroll 0 0 #F4F4F4;
     border: 1px solid #E1E1E1;
+    border-radius: 6px;
     clear: both;
     color: #555555;
     display: block;
@@ -42,8 +43,8 @@ pre {
     font-size: 90%;
     height: 1%;
     line-height: 1.2em;
-    margin: auto 40px;
-    padding: 1em;
+    margin: 15px;
+    padding: 15px;
     white-space: pre-wrap;
     width: auto;
 }
@@ -61,16 +62,15 @@ mark, .example{
     width: auto;
 }
 
-pre, .wp_syntax, mark {
+xmp, pre, .wp_syntax, mark {
     word-wrap: normal;
 }
-pre, mark {
+xmp, pre, mark {
     overflow-x: auto;
     overflow-y: hidden;
-    padding-bottom: 1.5em;
     word-wrap: normal;
 }
-code, pre {
+xmp, code, pre {
     font-family: "Courier New",Courier,monospace;
 }
 

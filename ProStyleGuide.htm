@@ -195,7 +195,7 @@
     </p>
 
     <p>All text on the site should conform to the font-family hierarchy:</p>
-    <pre>     "Lato",Helvetica,Arial,sans-serif;</pre>
+    <xmp>     "Lato",Helvetica,Arial,sans-serif;</xmp>
 </section>
 
 <section id="BrandingSection" class="grid-unit one-section">
@@ -257,12 +257,12 @@
 <p>No formatting is required for the page body. All text is formatted correctly by default. If appropriate semantic HTML
     tagging is used, then all text should be formatted according to specifications. This text is an example of page body
     text.</p>
-<pre>body {
+<xmp>body {
     font-size: 13px;
     color: #34495E;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     line-height: 1.72222;
-}</pre>
+}</xmp>
 <p>&nbsp;</p>
 
 <h3 id="StyleGuide-PageTitles-H1">Page Titles - h1</h3>
@@ -272,15 +272,14 @@
 
 <div class="example"><h1>Page Title</h1></div>
 <p>&nbsp;</p>
-<pre>{
+<xmp>{
     font-size: 24px;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     font-weight: 700;
     line-height: 1.1;
-}</pre>
+}</xmp>
 
 
 <h3 id="StyleGuide-PageSectionTitles-H2">Page Section Titles - h2</h3>
@@ -290,15 +289,14 @@
 
 <div class="example"><h2>Page Section</h2></div>
 <p>&nbsp;</p>
-<pre>{
+<xmp>{
     font-size: 20px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     font-weight: 700;
     line-height: 1.1;
-}</pre>
+}</xmp>
 
 <h3 id="StyleGuide-PageSectionTitles-H2">Page Sub-Section Title - h3</h3>
 
@@ -306,15 +304,14 @@
 
 <div class="example"><h3>Page Section</h3></div>
 <p>&nbsp;</p>
-<pre>{
-    font-size: 20px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+<xmp>{
+    font-size: 18px;
+    margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: normal;
     line-height: 1.1;
-}</pre>
+}</xmp>
 
 
 <h3 id="StyleGuide-Standard-HTML-Elements">Standard HTML Elements</h3>
@@ -363,6 +360,7 @@
     render. Checkboxes and radio buttons require a label, and a data attribute to correctly render. The label must have
     a class of the input type (i.e., checkbox, or radio), and the input must have a "data-toggle" attribute, also
     of the input type (i.e., checkbox, or radio). Examples are below:</p>
+	<p style="color:red;font-weight:bold;">These need the code added for reference for the developers</p>
 
 <div class="example">
     <select style="display: none;" id="StyleGuideExmapleSelect">
@@ -388,6 +386,7 @@
 <p>Inputs do not require a specific CSS class, unless their size needs to be changed. Inputs are styled by default.
     Inputs should have their
     type attribute set to their appropriate type, for example (not inclusive):</p>
+	<p style="color:red;font-weight:bold;">These need the code added for reference for the developers</p>
 <ul>
     <li>text</li>
     <li>month</li>
@@ -420,24 +419,47 @@
     <input id="ExampleError" class="error-field" type="text"><br>
     <span class="error centered">Place error message here</span>
 </div>
-<p></p>
 <p>
-    </p><pre>input.error-field{
+<xmp>
+input.error-field{
         background-color: #FCDEDE;
 }
-    </pre>
-<p></p>
+</xmp>
+
 
 <h3 id="StyleGuide-Buttons"><a name="Buttons">Buttons</a></h3>
 
 <p>Buttons should be used to indicate to a user that an action is possible. Actions are verbs, such as:</p>
-
 <ul>
-    <li>Add</li>
-    <li>Save</li>
-    <li>Copy</li>
-    <li>Delete</li>
-    <li>Cancel</li>
+<button type="button" class="btn btn-default">Default</button>
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-link">Link</button>
+<xmp>
+<!-- Standard button -->
+<button type="button" class="btn btn-default">Default</button>
+
+<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+<button type="button" class="btn btn-primary">Primary</button>
+
+<!-- Indicates a successful or positive action -->
+<button type="button" class="btn btn-success">Success</button>
+
+<!-- Contextual button for informational alert messages -->
+<button type="button" class="btn btn-info">Info</button>
+
+<!-- Indicates caution should be taken with this action -->
+<button type="button" class="btn btn-warning">Warning</button>
+
+<!-- Indicates a dangerous or potentially negative action -->
+<button type="button" class="btn btn-danger">Danger</button>
+
+<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+<button type="button" class="btn btn-link">Link</button>
+</xmp>
 </ul>
 <p>
     Actions are actions from the user's perspective, not the application's. Therefore, there are times when it is
@@ -465,12 +487,42 @@
 <h4>Button sizes</h4>
 
 <p>Buttons come in several sizes: </p>
-<ul>
-    <li>Large</li>
-    <li>Default</li>
-    <li>Small (btn-sm)</li>
-    <li>Extra small button (btn-xs)</li>
-</ul>
+<div class="example">
+<p>
+  <button type="button" class="btn btn-primary btn-lg">Large button</button>
+  <button type="button" class="btn btn-default btn-lg">Large button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary">Default button</button>
+  <button type="button" class="btn btn-default">Default button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-sm">Small button</button>
+  <button type="button" class="btn btn-default btn-sm">Small button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
+  <button type="button" class="btn btn-default btn-xs">Extra small button</button>
+</p>
+</div>
+<xmp>
+<p>
+  <button type="button" class="btn btn-primary btn-lg">Large button</button>
+  <button type="button" class="btn btn-default btn-lg">Large button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary">Default button</button>
+  <button type="button" class="btn btn-default">Default button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-sm">Small button</button>
+  <button type="button" class="btn btn-default btn-sm">Small button</button>
+</p>
+<p>
+  <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
+  <button type="button" class="btn btn-default btn-xs">Extra small button</button>
+</p>
+</xmp>
 <p>Standard buttons are the default button to use in all instances, except buttons embedded in table rows.</p>
 
 
@@ -824,7 +876,7 @@ Required Attributes
     <p>All ID elements should be TitleCase. All class elements should be hyphenated-names. All HTML elements should be
         lower
         case.</p>
-<pre> #ExampleId{
+<xmp> #ExampleId{
      //Style here
  }
 
@@ -835,17 +887,17 @@ Required Attributes
  div{
      //Style here
  }
-</pre>
+</xmp>
 
     <h3>Style Sections</h3>
 
     <p>Include style-sections in style sheets, grouping like items. Sections are demarcated by CSS comments, for
         example:</p>
 
-   <pre>/*SECTION NAME*/
+   <xmp>/*SECTION NAME*/
 .css-class{
     //Styles here
-}</pre>
+}</xmp>
 </section>
 
 </div>

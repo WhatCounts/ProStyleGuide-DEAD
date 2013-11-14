@@ -46,14 +46,20 @@ a {
 #ui-datepicker-div {
     z-index: 3000 !important;
 }
-
-h2 {
+h1 {
+    margin: 15px;
     font-size: 24px;
 }
 
-h3 {
+h2 {
     font-size: 20px;
-    margin-top: 15px;
+    margin: 15px;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 15px;
+    font-weight: normal;
 }
 
 p {

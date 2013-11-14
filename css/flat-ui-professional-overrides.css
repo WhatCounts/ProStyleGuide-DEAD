@@ -79,6 +79,17 @@ p {
     background-color: #3498DB;
 }
 
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #5dade2;
+    border-color: #5dade2;
+}
+
+
 .select {
     margin-bottom: 0;
 }

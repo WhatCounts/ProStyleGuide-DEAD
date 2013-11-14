@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-body{
+body {
     font-size: 13px;
 }
 
@@ -46,6 +46,7 @@ a {
 #ui-datepicker-div {
     z-index: 3000 !important;
 }
+
 h1 {
     margin: 15px;
     font-size: 24px;
@@ -74,6 +75,10 @@ p {
     margin-top: 6px;
 }
 
+.btn-primary {
+    background-color: #3498DB;
+}
+
 .select {
     margin-bottom: 0;
 }
@@ -93,7 +98,7 @@ input[type="color"], .uneditable-input {
     border-radius: 6px;
     box-shadow: none;
     color: #34495E;
-    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 15px;
     height: 42px;
     padding: 8px 12px;
@@ -110,5 +115,5 @@ button.btn, input.btn[type="submit"] {
 }
 
 .checkbox .icons .first-icon, .radio .icons .first-icon, .checkbox .icons .second-icon, .radio .icons .second-icon {
-background-color: transparent;
+    background-color: transparent;
 }

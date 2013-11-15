@@ -1,4 +1,3 @@
-
 var FlatUiInputs = (function () {
 
     var toggleCheckboxList = function () {
@@ -146,5 +145,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 inputField.focus();
             });
     });
+
+var datePicker = '#DatePickerExample';
+    var date = $(datePicker);
+    $(datePicker).datepicker();
+
 
 }, false);

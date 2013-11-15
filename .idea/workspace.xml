@@ -4,9 +4,9 @@
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="" />
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543615395" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543912163" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541361011" ignored="false" />
-    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541894283" ignored="false" />
+    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543709578" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463611367" ignored="false" />
     <file path="/*.regexp" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384533221883" ignored="false" />
@@ -720,7 +720,7 @@
     <file path="C:/WhatCountsSource/Trunk/site/html/jscript/lists/ViewLists.js" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384538993490" ignored="false" />
     <file path="/ViewLists.js" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384538927981" ignored="false" />
     <file path="/whatcounts.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543573071" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543609600" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543911854" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -808,10 +808,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1174" column="2" selection-start="49627" selection-end="49627" vertical-scroll-proportion="-0.65384614">
+            <state line="1033" column="32" selection-start="43930" selection-end="43930" vertical-scroll-proportion="0.81030446">
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -829,10 +829,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whatcounts.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="whatcounts.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/whatcounts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="1" selection-start="711" selection-end="711" vertical-scroll-proportion="0.43776825">
+            <state line="46" column="1" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#30#150#0" expanded="false" />
                 <element signature="e#159#182#0" expanded="false" />
@@ -1041,9 +1041,9 @@
         <option value="$PROJECT_DIR$/css/style_guide.css" />
         <option value="$PROJECT_DIR$/css/flat-ui.css" />
         <option value="$PROJECT_DIR$/Deleteme.html" />
-        <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
         <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
         <option value="$PROJECT_DIR$/css/whatcounts.css" />
+        <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
       </list>
     </option>
   </component>
@@ -1349,7 +1349,11 @@
       <created>1384543619158</created>
       <updated>1384543619158</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add in sort indicators">
+      <created>1384543921117</created>
+      <updated>1384543921117</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1545,16 +1549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1174" column="2" selection-start="49627" selection-end="49627" vertical-scroll-proportion="-0.65384614">
-          <folding>
-            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="4" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.0">
@@ -1578,7 +1572,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/whatcounts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="1" selection-start="711" selection-end="711" vertical-scroll-proportion="0.43776825">
+        <state line="46" column="1" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#30#150#0" expanded="false" />
             <element signature="e#159#182#0" expanded="false" />
@@ -1760,6 +1754,16 @@
             <element signature="e#16410#16537#0" expanded="false" />
             <element signature="e#16556#16601#0" expanded="false" />
             <element signature="e#16609#16632#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1033" column="32" selection-start="43930" selection-end="43930" vertical-scroll-proportion="0.81030446">
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

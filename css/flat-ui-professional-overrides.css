@@ -79,6 +79,10 @@ p {
     background-color: #3498DB;
 }
 
+.btn > .fui-plus {
+    font-size: 19px;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
@@ -140,4 +144,8 @@ button.btn, input.btn[type="submit"] {
 
 .checkbox .icons .first-icon, .radio .icons .first-icon, .checkbox .icons .second-icon, .radio .icons .second-icon {
     background-color: transparent;
+}
+
+.table .checkbox, .table .radio {
+    margin: 0;
 }

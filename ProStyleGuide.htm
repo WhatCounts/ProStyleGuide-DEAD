@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-US"><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<html lang="en-US">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
     <link href="css/css_002.css" rel="stylesheet" type="text/css">
     <link href="css/css.css" rel="stylesheet" type="text/css">
     <link href="css/css_003.css" rel="stylesheet" type="text/css">
@@ -17,7 +18,8 @@
 <div id="MenuBarContainer">
     <div id="MenuBar">
         <ul class="group top-nav" id="Nav">
-            <li id="WhatCountsLogo" class="logo"><a href="http://localhost:8080/bin/front"><img src="img/top-logo.png" border="0"></a>
+            <li id="WhatCountsLogo" class="logo"><a href="http://localhost:8080/bin/front"><img src="img/top-logo.png"
+                                                                                                border="0"></a>
             </li>
         </ul>
     </div>
@@ -36,7 +38,8 @@
         it is also a library of examples. Developers can review the code here to find examples of how to implement HTML
         elements and page elements (widgets) in their presentation code in a way that maintains a consistent look, feel,
         and user experience across the What Counts platform. All the code on the Style Guide conforms to the standards
-        defined by the Style Guide. Therefore, it is also a practical library of code widgets for copying and modifying—which
+        defined by the Style Guide. Therefore, it is also a practical library of code widgets for copying and
+        modifying—which
         is encouraged, as it will help facilitate markup consistency.</p>
 
     <p>This is not an exhaustive style guide. It does not stipulate the conditions necessary to create a pixel-perfect
@@ -67,85 +70,90 @@
 
     <h3 id="StyleGuide-Grid">1200 Grid</h3>
 
-    <p>The overall layout of the site should conform to a 1200 grid, where the content of the page is centered. This grid uses 12 columns so it can easily be used as 2, 3 or 4 columns. Each column is still based on 15px margin on the left and right.</p>
+    <p>The overall layout of the site should conform to a 1200 grid, where the content of the page is centered. This
+        grid uses 12 columns so it can easily be used as 2, 3 or 4 columns. Each column is still based on 15px margin on
+        the left and right.</p>
 
-<img id="grid1200" src="img/1200_12_15_15.png" width="1200" height="645" />
+    <img id="grid1200" src="/images/1200_12_15_15.png" width="1200" height="645"/>
 
     <p>&nbsp;</p>
 
     <h3>BootStrap Grid Units</h3>
-    <p>This is the setup for Bootstraps grid system for responsiveness. To learn more about Bootstrap Grids visit <a href="http://getbootstrap.com/css/#grid">http://getbootstrap.com/css/#grid</a></p>
-<div id="BootstrapGrid">
-  <div class="bs-docs-grid">
-        <div class="row show-grid">
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
-            <div class="col-md-1">.col-md-1</div>
+
+    <p>This is the setup for Bootstraps grid system for responsiveness. To learn more about Bootstrap Grids visit <a
+            href="http://getbootstrap.com/css/#grid">http://getbootstrap.com/css/#grid</a></p>
+
+    <div id="BootstrapGrid">
+        <div class="bs-docs-grid">
+            <div class="row show-grid">
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+                <div class="col-md-1">.col-md-1</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-md-8">.col-md-8</div>
+                <div class="col-md-4">.col-md-4</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-md-4">.col-md-4</div>
+                <div class="col-md-4">.col-md-4</div>
+                <div class="col-md-4">.col-md-4</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-md-6">.col-md-6</div>
+                <div class="col-md-6">.col-md-6</div>
+            </div>
         </div>
-        <div class="row show-grid">
-            <div class="col-md-8">.col-md-8</div>
-            <div class="col-md-4">.col-md-4</div>
+
+        <br>
+
+        <div class="bs-docs-grid">
+            <div class="row show-grid">
+                <div class="col-xs-12 col-md-8">.col-xs-12 .col-md-8</div>
+                <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+                <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+                <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-xs-6">.col-xs-6</div>
+                <div class="col-xs-6">.col-xs-6</div>
+            </div>
         </div>
-        <div class="row show-grid">
-            <div class="col-md-4">.col-md-4</div>
-            <div class="col-md-4">.col-md-4</div>
-            <div class="col-md-4">.col-md-4</div>
-        </div>
-        <div class="row show-grid">
-            <div class="col-md-6">.col-md-6</div>
-            <div class="col-md-6">.col-md-6</div>
+
+        <br>
+
+        <div class="bs-docs-grid">
+            <div class="row show-grid">
+                <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
+                <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
+            </div>
+            <div class="row show-grid">
+                <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+                <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+                <!-- Optional: clear the XS cols if their content doesn't match in height -->
+                <div class="clearfix visible-xs"></div>
+                <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
+            </div>
         </div>
     </div>
-
-    <br>
-
-    <div class="bs-docs-grid">
-        <div class="row show-grid">
-            <div class="col-xs-12 col-md-8">.col-xs-12 .col-md-8</div>
-            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
-        </div>
-        <div class="row show-grid">
-            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
-            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
-            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
-        </div>
-        <div class="row show-grid">
-            <div class="col-xs-6">.col-xs-6</div>
-            <div class="col-xs-6">.col-xs-6</div>
-        </div>
-    </div>
-
-    <br>
-
-    <div class="bs-docs-grid">
-        <div class="row show-grid">
-            <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
-            <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
-        </div>
-        <div class="row show-grid">
-            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
-            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
-            <!-- Optional: clear the XS cols if their content doesn't match in height -->
-            <div class="clearfix visible-xs"></div>
-            <div class="col-xs-6 col-sm-4">.col-xs-6 .col-sm-4</div>
-        </div>
-    </div>
-  </div>
 
     <br>
 
     <h3 id="StyleGuide-JQueryUI">Flat UI</h3>
 
-    <p>Flat UI, utilizing Bootstrap—which utilizes both Bootstrap-specific JS, and jQuery-UI—will provide
+    <p>Flat UI, utilizing Bootstrap&mdash;which utilizes both Bootstrap-specific JS, and jQuery-UI&mdash;will provide
         both styling and functionality for dialog boxes. See <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
         for more information.</p>
 
@@ -186,8 +194,9 @@
 
     <h3 id="StyleGuide-Fonts">Fonts</h3>
 
-    <p>Large, bold text—declining to normal, non-bold text—should be used to establish a clear information
-        hierarchy. All titles or sub titles should be marked with their appropriate heading tag (h1, h2, &amp;c.). All pages
+    <p>Large, bold text&mdash;declining to normal, non-bold text&mdash;should be used to establish a clear information
+        hierarchy. All titles or sub titles should be marked with their appropriate heading tag (h1, h2, &amp;c.). All
+        pages
         should, at the least, employ a <a href="#HtmlElements">Page Title</a> and contain a content body that contains
         either a paragraph, graphic, or table. No special text formatting is required, or allowed, beyond that provided
         by default. If all text is appropriately marked with the semantically correct HTML tags, the correct formatting
@@ -195,7 +204,7 @@
     </p>
 
     <p>All text on the site should conform to the font-family hierarchy:</p>
-    <xmp>     "Lato",Helvetica,Arial,sans-serif;</xmp>
+    <pre>     "Lato",Helvetica,Arial,sans-serif;</pre>
 </section>
 
 <section id="BrandingSection" class="grid-unit one-section">
@@ -224,7 +233,9 @@
         "NavMenu". It then contains an Unordered List. Each main menu topic that contains sub-content must have
         a class of "has-sub". Each sub-item that contains flyout content, must contain a class "set-sub toggle-nav".
 
-    </p><h3><a name="Links">Text Links</a></h3>
+    </p>
+
+    <h3><a name="Links">Text Links</a></h3>
 
     <p>Links are styled by default. You do not need to emend additional styling. In fact, additional styling of text
         links is not permitted. Text inks should be blue (#3498DB). Link hover state should be green (#1ABC9C). Text
@@ -233,7 +244,7 @@
 
     <p>Below is an example of a text link:</p>
 
-    <div class="example"><a href="http://localhost:8080/style_guide/www.whatcounts.com">What Counts</a></div>
+    <div class="example"><a href="http://www.whatcounts.com">What Counts</a></div>
 
     <h3>Searching and Filtering</h3>
 
@@ -255,14 +266,10 @@
 <h3 id="StyleGuide-PageBody">Page Body</h3>
 
 <p>No formatting is required for the page body. All text is formatted correctly by default. If appropriate semantic HTML
-    tagging is used, then all text should be formatted according to specifications. This text is an example of page body
+    tagging is used, then all text should be formatted according to specifications. The text in this paragraph is an
+    example of page body
     text.</p>
-<xmp>body {
-    font-size: 13px;
-    color: #34495E;
-    font-family: "Lato",Helvetica,Arial,sans-serif;
-    line-height: 1.72222;
-}</xmp>
+
 <p>&nbsp;</p>
 
 <h3 id="StyleGuide-PageTitles-H1">Page Titles - h1</h3>
@@ -272,14 +279,14 @@
 
 <div class="example"><h1>Page Title</h1></div>
 <p>&nbsp;</p>
-<xmp>{
+<pre>{
     font-size: 24px;
     margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     font-weight: 700;
     line-height: 1.1;
-}</xmp>
+}</pre>
 
 
 <h3 id="StyleGuide-PageSectionTitles-H2">Page Section Titles - h2</h3>
@@ -289,29 +296,30 @@
 
 <div class="example"><h2>Page Section</h2></div>
 <p>&nbsp;</p>
-<xmp>{
+<pre>{
     font-size: 20px;
     margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     font-weight: 700;
     line-height: 1.1;
-}</xmp>
+}</pre>
 
-<h3 id="StyleGuide-PageSectionTitles-H2">Page Sub-Section Title - h3</h3>
+<h3 id="StyleGuide-PageSub-SectionTitle-H3">Page Sub-Section Title - h3</h3>
 
-<p>Pages can have one or more Sub Section Titles. A Section Title should be wrapped by an &lt;h2&gt; tag, and should have the following styles:</p>
+<p>Pages can have one or more Sub Section Titles. A Section Title should be wrapped by an &lt;h3gt; tag, and should
+    have the following styles:</p>
 
 <div class="example"><h3>Page Section</h3></div>
 <p>&nbsp;</p>
-<xmp>{
+<pre>{
     font-size: 18px;
     margin: 15px;
     color: inherit;
     font-family: "Lato",Helvetica,Arial,sans-serif;
     font-weight: normal;
     line-height: 1.1;
-}</xmp>
+}</pre>
 
 
 <h3 id="StyleGuide-Standard-HTML-Elements">Standard HTML Elements</h3>
@@ -335,7 +343,9 @@
         <fieldset>
             <legend>Sample Fieldset</legend>
             <label>TestField:</label>:<br>
-            <input name="TestField" type="text">
+            <label>
+                <input name="TestField" type="text">
+            </label>
         </fieldset>
     </form>
 </div>
@@ -346,8 +356,9 @@
 
     <form>
         <fieldset>
-            <label>TestField:</label>:<br>
-            <input name="TestField" type="text">
+            <label>TestField:<br/>
+                <input name="TestField" type="text">
+            </label>
         </fieldset>
     </form>
 
@@ -360,42 +371,282 @@
     render. Checkboxes and radio buttons require a label, and a data attribute to correctly render. The label must have
     a class of the input type (i.e., checkbox, or radio), and the input must have a "data-toggle" attribute, also
     of the input type (i.e., checkbox, or radio). Examples are below:</p>
-	<p style="color:red;font-weight:bold;">These need the code added for reference for the developers</p>
+
+<h4>Checkboxes</h4>
+
+<div class="demo-content">
+    <p>
+        Using Flat-style checkboxes requires a JS plugin that creates all custom markup, as below:
+    </p>
+    <label for="checkbox1" class="checkbox">
+        <span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span
+                class="second-icon fui-checkbox-checked"></span></span><input type="checkbox" data-toggle="checkbox"
+                                                                              id="checkbox1" value="">
+        Checkbox
+    </label>
+    <label for="checkbox2" class="checkbox checked">
+        <span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span
+                class="second-icon fui-checkbox-checked"></span></span><input type="checkbox" data-toggle="checkbox"
+                                                                              checked="checked" id="checkbox2" value="">
+        Checkbox
+    </label>
+    <label for="checkbox3" class="checkbox disabled">
+        <span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span
+                class="second-icon fui-checkbox-checked"></span></span><input type="checkbox" disabled=""
+                                                                              data-toggle="checkbox" id="checkbox3"
+                                                                              value="">
+        Checkbox
+    </label>
+    <label for="checkbox4" class="checkbox disabled checked">
+        <span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span
+                class="second-icon fui-checkbox-checked"></span></span><input type="checkbox" disabled=""
+                                                                              data-toggle="checkbox" checked="checked"
+                                                                              id="checkbox4" value="">
+        Checkbox
+    </label>
+
+    <h6 class="ptl">Usage via data attributes:</h6>
+<pre class="prettyprint"><span class="tag">&lt;label</span><span class="pln"> </span><span class="atn">class</span><span
+        class="pun">=</span><span class="atv">"checkbox"</span><span class="pln"> </span><span
+        class="atn">for</span><span class="pun">=</span><span class="atv">"checkbox1"</span><span
+        class="tag">&gt;</span><span class="pln">
+  </span><span class="tag">&lt;input</span><span class="pln"> </span><span class="atn">type</span><span
+        class="pun">=</span><span class="atv">"checkbox"</span><span class="pln"> </span><span
+        class="atn">value</span><span class="pun">=</span><span class="atv">""</span><span class="pln"> </span><span
+        class="atn">id</span><span class="pun">=</span><span class="atv">"checkbox1"</span><span
+        class="pln"> </span><span class="atn">data-toggle</span><span class="pun">=</span><span
+        class="atv">"checkbox"</span><span class="tag">&gt;</span><span class="pln">
+  Checkbox
+</span><span class="tag">&lt;/label&gt;</span></pre>
+
+    <h6 class="ptl">Usage via JS:</h6>
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">'[data-toggle="checkbox"]'</span><span
+        class="pun">).</span><span class="pln">each</span><span class="pun">(</span><span
+        class="kwd">function</span><span class="pln"> </span><span class="pun">()</span><span class="pln"> </span><span
+        class="pun">{</span><span class="pln">
+  $</span><span class="pun">(</span><span class="kwd">this</span><span class="pun">).</span><span
+        class="pln">checkbox</span><span class="pun">();</span><span class="pln">
+</span><span class="pun">});</span></pre>
+
+    <div class="pvm">
+        <h6>Methods</h6>
+    </div>
+    <p class="mbl">
+        <strong>.checkbox('toggle')</strong>
+        <br>
+        toggles checkbox state from <span class="text-info">checked</span>
+        to <span class="text-info">unchecked</span> and back.
+    </p>
+
+    <p class="mbl">
+        <strong>.checkbox('check')</strong>
+        <br>
+        sets checkbox state to <span class="text-info">checked</span>.
+    </p>
+
+    <p class="mbl">
+        <strong>.checkbox('uncheck')</strong>
+        <br>
+        sets checkbox state to <span class="text-info">unchecked</span>.
+    </p>
+    <pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span
+            class="str">':checkbox'</span><span class="pun">).</span><span class="pln">checkbox</span><span class="pun">(</span><span
+            class="str">'check'</span><span class="pun">);</span></pre>
+
+    <div class="pbm ptl">
+        <h6>Events</h6>
+    </div>
+    <p class="mbl">
+        <strong>.on('toggle')</strong>
+        <br>
+        Fired when checkbox state changed between
+        <span class="text-info">check</span> ?
+        <span class="text-info">uncheck</span>.
+    </p>
+
+    <p class="mbl">
+        <strong>.on('change')</strong>
+        <br>
+        Same as <span class="text-info">toggle</span>.
+    </p>
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">':checkbox'</span><span
+        class="pun">).</span><span class="pln">on</span><span class="pun">(</span><span class="str">'toggle'</span><span
+        class="pun">,</span><span class="pln"> </span><span class="kwd">function</span><span class="pun">()</span><span
+        class="pln"> </span><span class="pun">{</span><span class="pln">
+  </span><span class="com">// Do something</span><span class="pln">
+</span><span class="pun">});</span></pre>
+</div>
+
+<div class="clearfix"></div>
+
+<h4>Radio buttons</h4>
+
+<div class="demo-content">
+    <p>
+        Firm radio also requires using JS plugin. We try making things easy so you won't have to spend huge amount of
+        time playing around with custom&nbsp;components.
+    </p>
+    <label class="radio">
+        <span class="icons"><span class="first-icon fui-radio-unchecked"></span><span
+                class="second-icon fui-radio-checked"></span></span><input type="radio" data-toggle="radio" value="1"
+                                                                           name="group1">
+        Radio is off
+    </label>
+    <label class="radio checked">
+        <span class="icons"><span class="first-icon fui-radio-unchecked"></span><span
+                class="second-icon fui-radio-checked"></span></span><input type="radio" checked="" data-toggle="radio"
+                                                                           value="2" name="group1">
+        Radio is on
+    </label>
+    <label class="radio disabled">
+        <span class="icons"><span class="first-icon fui-radio-unchecked"></span><span
+                class="second-icon fui-radio-checked"></span></span><input type="radio" disabled="" data-toggle="radio"
+                                                                           value="1" name="group2">
+        Radio is off
+    </label>
+    <label class="radio disabled checked">
+        <span class="icons"><span class="first-icon fui-radio-unchecked"></span><span
+                class="second-icon fui-radio-checked"></span></span><input type="radio" checked="" disabled=""
+                                                                           data-toggle="radio" value="2" name="group2">
+        Radio is on
+    </label>
+
+    <h6 class="ptl">Usage via data attributes:</h6>
+<pre class="prettyprint"><span class="tag">&lt;label</span><span class="pln"> </span><span class="atn">class</span><span
+        class="pun">=</span><span class="atv">"radio"</span><span class="tag">&gt;</span><span class="pln">
+  </span><span class="tag">&lt;input</span><span class="pln"> </span><span class="atn">type</span><span
+        class="pun">=</span><span class="atv">"radio"</span><span class="pln"> </span><span class="atn">name</span><span
+        class="pun">=</span><span class="atv">"group1"</span><span class="pln"> </span><span
+        class="atn">value</span><span class="pun">=</span><span class="atv">"1"</span><span class="pln"> </span><span
+        class="atn">data-toggle</span><span class="pun">=</span><span class="atv">"radio"</span><span
+        class="tag">&gt;</span><span class="pln">
+  Radio is off
+</span><span class="tag">&lt;/label&gt;</span><span class="pln">
+
+</span><span class="tag">&lt;label</span><span class="pln"> </span><span class="atn">class</span><span
+        class="pun">=</span><span class="atv">"radio"</span><span class="tag">&gt;</span><span class="pln">
+  </span><span class="tag">&lt;input</span><span class="pln"> </span><span class="atn">type</span><span
+        class="pun">=</span><span class="atv">"radio"</span><span class="pln"> </span><span class="atn">name</span><span
+        class="pun">=</span><span class="atv">"group1"</span><span class="pln"> </span><span
+        class="atn">value</span><span class="pun">=</span><span class="atv">"2"</span><span class="pln"> </span><span
+        class="atn">data-toggle</span><span class="pun">=</span><span class="atv">"radio"</span><span
+        class="pln"> </span><span class="atn">checked</span><span class="tag">&gt;</span><span class="pln">
+  Radio is on
+</span><span class="tag">&lt;/label&gt;</span></pre>
+
+    <h6 class="ptl">Usage via JS:</h6>
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span
+        class="str">'[data-toggle="radio"]'</span><span class="pun">).</span><span class="pln">each</span><span
+        class="pun">(</span><span class="kwd">function</span><span class="pln"> </span><span class="pun">()</span><span
+        class="pln"> </span><span class="pun">{</span><span class="pln">
+  $</span><span class="pun">(</span><span class="kwd">this</span><span class="pun">).</span><span
+        class="pln">radio</span><span class="pun">();</span><span class="pln">
+</span><span class="pun">});</span></pre>
+
+    <div class="pvm">
+        <h6>Methods</h6>
+    </div>
+    <p class="mbl">
+        <strong>.radio('check')</strong>
+        <br>
+        sets radio state to <span class="text-info">checked</span>.
+    </p>
+
+    <p class="mbl">
+        <strong>.radio('uncheck')</strong>
+        <br>
+        sets radio state to <span class="text-info">unchecked</span>.
+    </p>
+    <pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">':radio'</span><span
+            class="pun">).</span><span class="pln">radio</span><span class="pun">(</span><span
+            class="str">'check'</span><span class="pun">);</span></pre>
+
+    <div class="pbm ptl">
+        <h6>Events</h6>
+    </div>
+    <p class="mbl">
+        <strong>.on('toggle')</strong>
+        <br>
+        Fired when radio state changed between
+        <span class="text-info">check</span> ?
+        <span class="text-info">uncheck</span>.
+    </p>
+
+    <p class="mbl">
+        <strong>.on('change')</strong>
+        <br>
+        Same as <span class="text-info">toggle</span> with just one difference &mdash; event sends for each radio which
+        state was changed.
+    </p>
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">':radio'</span><span
+        class="pun">).</span><span class="pln">on</span><span class="pun">(</span><span class="str">'toggle'</span><span
+        class="pun">,</span><span class="pln"> </span><span class="kwd">function</span><span class="pun">()</span><span
+        class="pln"> </span><span class="pun">{</span><span class="pln">
+  </span><span class="com">// Do something</span><span class="pln">
+</span><span class="pun">});</span></pre>
+    <div id="fui-dialog"></div>
+</div>
+
+<div class="clearfix"></div>
+
+<h3>Selects</h3>
+
+<p>Select dropdowns are automatically converted by the system, using Bootstrap select. Therefore, when creating
+    selects, use standard HTML select and option tags. For more information on
+    Bootstrap select, and how to work with Bootstrap-styled select elements using it, see: <a
+            href="http://silviomoreto.github.io/bootstrap-select/">Boostrap select</a>
+</p>
 
 <div class="example">
-    <select style="display: none;" id="StyleGuideExmapleSelect">
-        <option selected="selected">Option one</option>
-        <option>Option two</option>
-        <option>Option three</option>
-    </select><div class="btn-group select"><i class="dropdown-arrow dropdown-arrow-inverse"></i><button id="StyleGuideExmapleSelect" class="btn dropdown-toggle clearfix btn-primary" data-toggle="dropdown"><span class="filter-option pull-left">Option one</span>&nbsp;<span class="caret"></span></button><ul style="max-height: 769.733px; overflow-y: auto; min-height: 108px;" class="dropdown-menu dropdown-inverse" role="menu"><li class="selected" rel="0"><a tabindex="-1" href="#" class=""><span class="pull-left">Option one</span></a></li><li rel="1"><a tabindex="-1" href="#" class=""><span class="pull-left">Option two</span></a></li><li rel="2"><a tabindex="-1" href="#" class=""><span class="pull-left">Option three</span></a></li></ul></div>
+    <label for="StyleGuideExmapleSelect"></label><select style="display: none;" id="StyleGuideExmapleSelect">
+    <option selected="selected">Option one</option>
+    <option>Option two</option>
+    <option>Option three</option>
+</select>
 </div>
 
 <br>
-
-<div class="example">
-    <label class="radio"><span class="icons"><span class="first-icon fui-radio-unchecked"></span><span class="second-icon fui-radio-checked"></span></span><input data-toggle="radio" type="radio">Test </label>
-</div>
-
-<div class="example">
-    <label class="checkbox"><span class="icons"><span class="first-icon fui-checkbox-unchecked"></span><span class="second-icon fui-checkbox-checked"></span></span><input data-toggle="checkbox" type="checkbox">Test </label>
-</div>
 
 
 <h3 id="StyleGuide-TextInputs">Inputs</h3>
 
 <p>Inputs do not require a specific CSS class, unless their size needs to be changed. Inputs are styled by default.
-    Inputs should have their
-    type attribute set to their appropriate type, for example (not inclusive):</p>
-	<p style="color:red;font-weight:bold;">These need the code added for reference for the developers</p>
-<ul>
-    <li>text</li>
-    <li>month</li>
-    <li>number</li>
-    <li>email</li>
-    <li>password</li>
-    <li>range</li>
-    <li>search</li>
-    <li>time</li>
+    Inputs should have their type attribute set to their appropriate type, for example (not inclusive):</p>
+
+<ul id="InputTypeExamples">
+    <li>text: <label>
+        <input type="text"/>
+    </label></li>
+    <li>month: <label>
+        <input type="month"/>
+    </label></li>
+    <li>number: <label>
+        <input type="number"/>
+    </label></li>
+    <li>email: <label>
+        <input type="email"/>
+    </label></li>
+    <li>password: <label>
+        <input type="password"/>
+    </label></li>
+    <li>range: <label>
+        <input type="range"/>
+    </label></li>
+    <li>
+        <div class="pull-left">search:</div>
+        <div class="form-group">
+            <div class="input-group input-group-lg">
+                <label for="appendedInputButton-02"></label><input type="search" placeholder="Search"
+                                                                   id="appendedInputButton-02" class="form-control">
+	            <span class="input-group-btn">
+	            	<button type="button" class="btn btn-default"><span class="fui-search"></span></button>
+	            </span>
+            </div>
+        </div>
+    </li>
+    <li>time: <label>
+        <input type="time"/>
+    </label></li>
 </ul>
 <p>Inputs should have a valid id attribute, and an associated label.</p>
 
@@ -408,65 +659,49 @@
 
 <p>This is not true of radio button sets, check box sets, or select boxes.</p>
 
-<h4>Inputs with Errors</h4>
+<h3>Inputs with Errors</h3>
 
 <p>Input fields that display errors should implement the "error-field" class. In addition, they should contain error
     text centered below them, in a span that implements the "error" class. The following is an example:</p>
 
 <p>
 
-</p><div class="example"><label for="ExampleError">Example Error: </label>
-    <input id="ExampleError" class="error-field" type="text"><br>
-    <span class="error centered">Place error message here</span>
+</p>
+
+<div class="example">
+    <div class="col-md-example"><label for="ExampleError">Example Error: </label>
+        <input id="ExampleError" class="error-field" type="text"><br>
+        <div class="error centered">Place error message here</div>
+    </div>
+    <div class="clearfix"></div>
 </div>
+
 <p>
-<xmp>
-input.error-field{
-        background-color: #FCDEDE;
-}
-</xmp>
 
 
-<h3 id="StyleGuide-Buttons"><a name="Buttons">Buttons</a></h3>
+<h2 id="StyleGuide-Buttons"><a name="Buttons">Buttons</a></h2>
 
 <p>Buttons should be used to indicate to a user that an action is possible. Actions are verbs, such as:</p>
-<ul>
-<button type="button" class="btn btn-default">Default</button>
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-link">Link</button>
-<xmp>
-<!-- Standard button -->
-<button type="button" class="btn btn-default">Default</button>
 
-<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-<button type="button" class="btn btn-primary">Primary</button>
-
-<!-- Indicates a successful or positive action -->
-<button type="button" class="btn btn-success">Success</button>
-
-<!-- Contextual button for informational alert messages -->
-<button type="button" class="btn btn-primary">Info</button>
-
-<!-- Indicates caution should be taken with this action -->
-<button type="button" class="btn btn-warning">Warning</button>
-
-<!-- Indicates a dangerous or potentially negative action -->
-<button type="button" class="btn btn-danger">Danger</button>
-
-<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
-<button type="button" class="btn btn-link">Link</button>
-</xmp>
+<ul id="ExampleButtons">
+    <li>
+        <button class="btn btn-primary" type="button" id="CancelExample">Cancel</button>
+    </li>
+    <li>
+        <button class="btn btn-primary" type="button" id="AddRecord">Add Record</button>
+    </li>
+    <li>
+        <button class="btn btn-primary" type="button" id="SaveRecord">Save Record</button>
+    </li>
 </ul>
+
 <p>
     Actions are actions from the user's perspective, not the application's. Therefore, there are times when it is
     appropriate to use a button to navigate to a page—as in a Cancel operation, when the application may redirect
     the user from one page to another.</p>
 
-<p>Links should never be used for actions. Links should be used to create connections between pages. See <a href="#Links">Links</a>
+<p>Links should never be used for actions. Links should be used to create connections between pages. See <a
+        href="#Links">Links</a>
     for more information.</p>
 
 <p>Button action names should be descriptive. The name should clearly describe the action. Prefer clarity to brevity,
@@ -475,54 +710,34 @@ input.error-field{
 <p>Disable buttons when their actions are not or should not be available to users. This follows the rule of least
     access.</p>
 
-<p>All buttons should be button tags: &lt;button&gt;. Buttons should have an id, and implement the class "btn btn-primary".
+<p>All buttons should be button tags: &lt;button&gt;. Buttons should have an id, and implement the class "btn
+    btn-primary".
     They should contain no action attributes, such as "onclick"; however, they may contain custom data
     attributes (e.g., data-). All functionality associated with a button should be appended by JavaScript on page
     load.</p>
 
-<div class="example">
-    <button id="MyTestButton" data-some-entity-id="2107" class="btn btn-primary">My Test Button</button>
-</div>
-
 <h4>Button sizes</h4>
 
 <p>Buttons come in several sizes: </p>
+
 <div class="example">
-<p>
-  <button type="button" class="btn btn-primary btn-lg">Large button</button>
-  <button type="button" class="btn btn-default btn-lg">Large button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary">Default button</button>
-  <button type="button" class="btn btn-default">Default button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary btn-sm">Small button</button>
-  <button type="button" class="btn btn-default btn-sm">Small button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
-  <button type="button" class="btn btn-default btn-xs">Extra small button</button>
-</p>
+    <p>
+        <button type="button" class="btn btn-primary btn-lg">Large button</button>
+        <button type="button" class="btn btn-default btn-lg">Large button</button>
+    </p>
+    <p>
+        <button type="button" class="btn btn-primary">Default button</button>
+        <button type="button" class="btn btn-default">Default button</button>
+    </p>
+    <p>
+        <button type="button" class="btn btn-primary btn-sm">Small button</button>
+        <button type="button" class="btn btn-default btn-sm">Small button</button>
+    </p>
+    <p>
+        <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
+        <button type="button" class="btn btn-default btn-xs">Extra small button</button>
+    </p>
 </div>
-<xmp>
-<p>
-  <button type="button" class="btn btn-primary btn-lg">Large button</button>
-  <button type="button" class="btn btn-default btn-lg">Large button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary">Default button</button>
-  <button type="button" class="btn btn-default">Default button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary btn-sm">Small button</button>
-  <button type="button" class="btn btn-default btn-sm">Small button</button>
-</p>
-<p>
-  <button type="button" class="btn btn-primary btn-xs">Extra small button</button>
-  <button type="button" class="btn btn-default btn-xs">Extra small button</button>
-</p>
-</xmp>
 <p>Standard buttons are the default button to use in all instances, except buttons embedded in table rows.</p>
 
 
@@ -549,9 +764,9 @@ input.error-field{
         <th>Age</th>
         <th>Ultimate Frisbee Handicap</th>
         <th>
-            <select style="display: none;" id="TableActions">
-                <option selected="selected">Test</option>
-            </select><div class="btn-group select"><i class="dropdown-arrow dropdown-arrow-inverse"></i><button id="TableActions" class="btn dropdown-toggle clearfix btn-primary" data-toggle="dropdown"><span class="filter-option pull-left">Test</span>&nbsp;<span class="caret"></span></button><ul style="overflow-y: auto; min-height: 114px; max-height: 259.167px;" class="dropdown-menu dropdown-inverse" role="menu"><li class="selected" rel="0"><a tabindex="-1" href="#" class=""><span class="pull-left">Test</span></a></li></ul></div>
+            <label for="TableActionsExample"></label><select style="display: none;" id="TableActionsExample">
+            <option selected="selected">Test</option>
+        </select>
         </th>
     </tr>
     </thead>
@@ -595,7 +810,8 @@ input.error-field{
 
 <h5>Dialog Box</h5>
 
-<p>Buttons on a dialog box should always appear right-aligned, on the bottom of the dialog box. See <a href="#DialogBox">Dialog Box</a> for more detail.</p>
+<p>Buttons on a dialog box should always appear right-aligned, on the bottom of the dialog box. See <a
+        href="#DialogBox">Dialog Box</a> for more detail.</p>
 
 <h5>Delete Buttons</h5>
 
@@ -615,7 +831,8 @@ input.error-field{
 
 <h3 id="StyleGuide-Tables">Tables</h3>
 
-<p>Use tables only for tabular data. Use CSS columns for columnar layout. Use of tables is acceptable for aligning field
+<p>Use tables only for tabular data. Use CSS columns for columnar layout, or grid elements for a grid layout - see <a
+        href="#Layout">Layout</a> for more information. Use of tables is acceptable for aligning field
     labels and fields on forms. Data tables and form tables differ in their presentation. See below for more
     information.</p>
 
@@ -633,10 +850,16 @@ input.error-field{
 </ul>
 Required and Available table classes:
 <ul>
-    <li>table table-striped table-hover</li>
+    <li>.table</li>
+    <li>.table-striped</li>
+    <li>.table-hover</li>
     <li>.number-cell - Used to right align numbers in a table cell</li>
     <li>.action-cell - Used to center buttons in a table cell</li>
 </ul>
+
+<p>The first three classes (table, table-striped, and table-hover) should be used by default on all tables, unless
+    otherwise specified.</p>
+
 Required Attributes
 <ul>
     <li>All tables must have an ID attribute.</li>
@@ -809,10 +1032,12 @@ Required Attributes
         the
         site to augment elements inside the main content area, as long as they do not interfere with or override the
         default
-        background. They must also conform to the <a href="#Branding">color palette</a>, and align with the <a href="#Layout">grid</a>.</p>
+        background. They must also conform to the <a href="#Branding">color palette</a>, and align with the <a
+                href="#Layout">grid</a>.</p>
 
     <p>Backgrounds are the preferred method for implementing decorative or informational Glyphs, while img tags are the
-        preferred method for implementing action Glyphs. For more information on Glyphs, see <a href="#Assets">Assets</a>.
+        preferred method for implementing action Glyphs. For more information on Glyphs, see <a
+                href="#Assets">Assets</a>.
     </p>
 
     <h3 id="StyleGuide-DialogBox"><a name="DialogBox">Dialog Box</a></h3>
@@ -853,17 +1078,19 @@ Required Attributes
 
     <div class="example">
         <div class="status-message success-message"><strong>Success!</strong> Your operation completed
-            successfully.<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+            successfully.<img src="/images/action_close.png" alt="Close" title="Close" class="close"></div>
     </div>
     <br>
 
     <div class="example">
-        <div class="status-message warning-message"><strong>Attention!</strong> Action required!<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+        <div class="status-message warning-message"><strong>Attention!</strong> Action required!<img
+                src="/images/action_close.png" alt="Close" title="Close" class="close"></div>
     </div>
     <br>
 
     <div class="example">
-        <div class="status-message error-message"><strong>Oops!</strong> Your operation failed!<img src="img/action_close.png" alt="Close" title="Close" class="close"></div>
+        <div class="status-message error-message"><strong>Oops!</strong> Your operation failed!<img
+                src="/images/action_close.png" alt="Close" title="Close" class="close"></div>
     </div>
 </section>
 
@@ -876,7 +1103,7 @@ Required Attributes
     <p>All ID elements should be TitleCase. All class elements should be hyphenated-names. All HTML elements should be
         lower
         case.</p>
-<xmp> #ExampleId{
+<pre> #ExampleId{
      //Style here
  }
 
@@ -887,17 +1114,17 @@ Required Attributes
  div{
      //Style here
  }
-</xmp>
+</pre>
 
     <h3>Style Sections</h3>
 
     <p>Include style-sections in style sheets, grouping like items. Sections are demarcated by CSS comments, for
         example:</p>
 
-   <xmp>/*SECTION NAME*/
+   <pre>/*SECTION NAME*/
 .css-class{
     //Styles here
-}</xmp>
+}</pre>
 </section>
 
 </div>
@@ -920,4 +1147,5 @@ Required Attributes
 <script type="text/javascript" src="js/WhatCountsNamespace.js"></script>
 <script type="text/javascript" language="javascript" src="js/StyleGuide.js"></script>
 
-</body></html>
+</body>
+</html>

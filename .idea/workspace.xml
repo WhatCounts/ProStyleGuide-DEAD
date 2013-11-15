@@ -3,14 +3,723 @@
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProStyleGuide.htm" afterPath="$PROJECT_DIR$/ProStyleGuide.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/StyleGuide.js" afterPath="$PROJECT_DIR$/js/StyleGuide.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" afterPath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_guide.css" afterPath="$PROJECT_DIR$/css/style_guide.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384458502204" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475921813" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384458567483" ignored="false" />
-    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384458694545" ignored="false" />
+    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384472669421" ignored="false" />
+    <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463611367" ignored="false" />
+    <file path="/*.regexp" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464801635" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_test_pmta.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/events/chart.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463765252" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/events/chart.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463747052" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/events/chart_popup.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list_refreshed.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463906885" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_messages.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463878411" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/integration_profile_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list_refreshed.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463907568" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463869091" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/layout/admin_layout.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_templates.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/layout/admin_layout_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463935751" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/admin/rp_api_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/api_call_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/queue_api_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463775523" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/admin/rp_api_history.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/confirmations/chart.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463752189" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/admin/rp_api_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/confirmations/chart.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463718748" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/admin/rp_api_history.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bouncecategories_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_documents.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bounce_import.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/integration_profile_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/impersonate.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/announcements.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bouncecategory_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/aggregation_control/aggregation_control.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/cache_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/aggregation_control/aggregation_control.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bouncecategory_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/integration_profile_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/ftp_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475533550" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bounce_import.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/ftp_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475544419" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_messages_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_test_pmta.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_templates.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bouncecategories_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_messages.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284705" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284706" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/ftp_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284706" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/myaccount.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_documents.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/inactive_body.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/bounceStats.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/sync.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/bounceStats.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/api_setup.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/bounceSearch.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/bounceSearch.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/messageLab.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/tools/messageLab.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/sync.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/heartbeat/main.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/dbpool_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463859772" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/list_categories.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/inactive_body.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/heartbeat/main.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/user_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/edit_categories.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/active_body.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463548166" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/api_setup.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/edit_categories.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/list_categories.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/api_web_test.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/bounce_import.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/bounce_import.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/user_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463797352" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_tasks/orphan_tasks_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/integration_profile_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/active_body.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463688799" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/server/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/freebird.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463910963" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/myaccount.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/server/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/dbpool_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463863075" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/server/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464009543" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/server/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464011285" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/api_web_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_tasks/orphan_tasks_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284707" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_messages_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/user_details.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463801019" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/account/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/user_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/account/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/impersonate.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/account/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463970295" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/account/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463988253" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/events/chart_popup.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/cache_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_tasks.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463655633" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/ftp_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_define.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/segmentation_rule_test.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/admin_tools.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464045404" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/web_servers/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/process_integration_file.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464049197" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/web_servers/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/process_segment_files.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464049818" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/web_servers/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/admin_tools.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/process_campaign_metrics_files.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464047816" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/admin_qa_tools.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/queue_api_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464051170" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/admin_qa_tools.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/common/wizard_wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/services_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464059297" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/sdma_conv.1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/sdma_conv.2.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/common/wizard_wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/quick_query.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/article_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/version.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/article_copy.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464164453" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tracking_event_types.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/edit_popup.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/article_copy.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464162298" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/eula.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/network_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/publishing_control/publishing_control.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/article_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/publishing_control/publishing_control.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/admin_only.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/articles_browse.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/network.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/registration_profile_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/realm_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/network.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/ckedit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/network_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/registration_profile_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/eula.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/empty.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/smtp_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/network/admin_only.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/articles_browse.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/delete_realm.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284708" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/registration_profile_manager.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/empty.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/registration_profile_manager.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/query.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/ckedit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/ldap_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/delete_realm.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/registration_profile/ldap_test.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/site_down.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/systemstats.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/alias_mapping.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464097895" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/alias_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/alias_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/task_history.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/alias_mapping.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464088240" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/alias/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/site_down.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/realm_migrate/realm_migrate.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/realm_migrate/realm_migrate.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/realm_security.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464035454" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/smtp_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/calendar/inactive_body.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/segmentation_rule_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/calendar/active_body.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464139062" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/calendar/active_body.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464119309" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/realm_about.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464027156" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/query.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/calendar/inactive_body.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/permtest.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/smtp_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/calendar/freemarker/Calendar.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464155349" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/realm_about.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464028805" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/permtest.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/systemstats.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/test/testHarness.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464043250" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mongo/mongodb_stats.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464020596" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/video_manager.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mongo/mongodb_entry.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464014859" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/version.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mongo/mongodb_connect.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464013975" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/task_errors.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mongo/mongodb_management.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464018370" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/smtp_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mongo/mongodb_search.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464019171" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/realm_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/dbcompare.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464046808" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/services_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464060308" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/sdma_conv.2.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/sdma_conv.1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/tools/segmentation_check.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464053714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/web_servers/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_controller.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_event_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_fields/chart_no_data.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464246764" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_field_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_column_aliases.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464165939" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_fields/chart.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464242763" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_run_select_multi.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_fields/chart.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464244547" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_fields/chart_no_data.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464248347" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_stat.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464219142" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_events_manager.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464173250" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_alias_details.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_group_main.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/order_email.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_html_select.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464523575" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/confirm.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_copy.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_run_select.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/order_email.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/confirm.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/groups/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_create.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/groups/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/export.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/order_email_accounting.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/groups/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_event_report_details.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464170022" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/groups/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/deliverability/addmore/popup/order_email_accounting.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_edit_main.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_alias_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_event_details.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_controller.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/preview_header.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_clean.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_domains.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464520389" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/content/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/governor/error.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/governor/error.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/listmgmt.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/listmgmt.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_copy.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/calendar.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/calendar.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/help.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/folders/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/account.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_run_select.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/help.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/inactive/account.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_field_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_compare_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464518100" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_group_main.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_matrix_html.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/folders/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_field_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_create.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/folders/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/folders/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_compare_select.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/segmentation_container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/campaigns_container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/common_container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_edit_main.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/segmentation_container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_table_field_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/campaigns_container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/export.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/flex/container/common_container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/help/popup.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/help/popup.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284710" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_test_select.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464524542" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/help/help.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/event_macros/macro_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/help/help.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/event_macros/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/event_macros/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/event_macros/macro_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_matrix_html.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/active.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_field_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_table_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/directory.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464234693" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/ftp_msg.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_run_select_multi.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/ftp_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/ftp_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_domains.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464521606" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_matrix.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_column_aliases.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464166824" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_matrix.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/ftp_msg.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/file_manager/active.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_stat.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464204909" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_compare_select.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464514844" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/custom_table_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_events_manager.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464174199" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_event_report_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464168769" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/deeplink/deep_tracker_clean.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_html_select.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464522795" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_compare_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464516671" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_ckedit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/task_who_se.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_send.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464661631" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/lists.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/relational_tables.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/spam_test/request.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_send.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464671568" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/spam_test/result.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/spam_test/result.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/spam_test/request.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_test_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464527315" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/segmentation_browse.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/urls.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/tags.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/view_thumbs.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284711" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/view_thumbs.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/import_form_v2.0.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/nway.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/view_history.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/template_copy.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464843303" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/nway.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/urls.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/templates_browse.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/template_copy.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464842519" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/relational_tables.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/segmentation_browse.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/add.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464777588" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/nway.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/view_history.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/test_urls.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/run.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464782743" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/nway.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/lists/segmentation_rule.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/run_super_user.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464786973" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_forgot.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_forgot.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_change_pwd.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/task_who.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464821791" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464799152" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_error.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/lists.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_change_expired_pwd.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/lists_browse.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/view.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/runExport.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464784558" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/url_excludes.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_temp_ip.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/run_super_user.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464787464" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_error.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/runExport.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464783667" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/email_preview.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/add.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464776436" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_expired.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_test_select.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464526030" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/templates_browse.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284712" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/runExport_super_user.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464785460" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_change_pwd.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464779154" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_change_expired_pwd.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/tasks_customers.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464832970" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/run.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464781660" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_expired.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/lists.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464780673" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/runExport_super_user.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464786245" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/suppression_list/view.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/url_excludes.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/subscriber_optout/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464736959" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/subscriber_optout/define.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/test_urls.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/list_test_status.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464528053" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/lists.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_noeditor.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/task_who.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/rules_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/rules_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/lists_browse.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/import_form_v2.0.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_noeditor.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/wsql_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/tracking_excludes.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/wsql_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/tasks_customers.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464839781" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/templates.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/tracking_excludes.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/wizard/html_gen.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/tags.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/templates.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/email_preview.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/task_who_se.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/templates/template_ckedit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/wizard/html_gen.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284713" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/bounce_wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/preference_sites/page_editor.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/preference_sites/add_edit_site.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/preference_sites/sites_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/standard_report_wizard/std_container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/bounce_wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/standard_report_wizard/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/report_wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/report_wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/standard_report_wizard/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/event_detail.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns_list/campaign_list_all.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns_list/campaign_list_all.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/purl_message_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/friendly_urls.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/inactive_body.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/msv.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/message_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/power_urls/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/listunsub_envelope.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/power_urls/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/message_page_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/error_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/power_urls/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475558937" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/error_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/archive_viewer.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/archive_viewer.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/power_urls/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/msv.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/siedit_envelope.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/event_detail.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/relational/manager.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/relational/document_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_admin/wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/relational/editor.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/message_page_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_admin/wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/inactive_body.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/purl_message_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/listunsub_envelope_error.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/friendly_urls.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/siedit_envelope.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rawdata/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/urls.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rawdata/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/urls_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rawdata/download_raw_data.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/listunsub_envelope.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rawdata/download_raw_data.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/campaign_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/reports/FriendlyReport.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/ftaf_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/ab_test_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/remarketing/select_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/remarketing/select_event.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_wizard/wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/urls_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/remarketing/select_campaign.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/login_temp_ip.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/ftaf_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/campaigns/urls.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/remarketing/find_campaign.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_wizard/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_wizard/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/message_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/misc/listunsub_envelope_error.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284714" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/logout.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/custom_report_wizard/wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/login/logout.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/domain_report_wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/results.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/poll_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/domain_report_wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/guide.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/list_empty.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/notify_users_page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464857294" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/coming_soon.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/test_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475508396" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/notify_users_page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/poll_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/myprofile/myprofile.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/results.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/event_wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/front_new.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/list_empty.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/guide_ORIG.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/guide.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/coming_soon.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475508396" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/myprofile/myprofile.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/test_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/main/guide_ORIG.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/start.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/standard_report_wizard/std_container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/event_wizard/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/start.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_summary_sub.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/set_data_macros/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_unsubscribe.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/set_data_macros/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284717" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/subscriber_find.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/importwizard/suppressionfilter_import.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/export.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_unsubscribe.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/suppressionfilter/importwizard/suppressionfilter_import.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/social/social_providers.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/spf_test.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/metrics.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/task_summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/task_summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/sim_meta_info.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/task_summary_no_wrapper.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/spf_test.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_question.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/util/task_summary_no_wrapper.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/who.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_option.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/message.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_option.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/message.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/metrics.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey_question.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284715" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/survey.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/finishpage.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/import.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/who.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/intropage.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/unsubs.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/inactive.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/finishpage.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/delete_subscriptions.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/unknown.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/research/unsubs.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/unknown.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/delete_subscriptions.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rss/wizard/html_page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_details.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/inactive.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/survey/usersurvey/intropage.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rss/wizard/html_page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rss/wizard/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/bouncestatistics_report.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/subscriber_find.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/publish_edit.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_subscribe.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/export_container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_details.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/salesforce_report_import.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/rss/wizard/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/whatcounts/admin/smtp/SmtpServerViewModel.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/whatcounts/admin/smtp/SmtpServerCollectionViewModel.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/salesforce_report_import.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/export.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/whatcounts/ComponentPoc/ComponentPocViewModel.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/publish_edit_fillins.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_shortform.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_subscribe.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/publish_edit.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/export_container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_events.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/sim_meta_info.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_shortform.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/bouncestatistics_report.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/publish_edit_fillins.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/custom_report/container.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/schedule/custom_report/container.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/task/tasks_customers.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/task/orphan_tasks_page.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/task/orphan_tasks_page.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/set_data_macros/list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/task/tasks_customers.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/user_events.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/batch_summary_sub.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/set_data_macros/list.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/user/import.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463284716" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/css/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384474573387" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/sync_nowork.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463781160" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/account/sync_nowork.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463789779" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_bounce_report_results.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463807515" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/admin_bounce_report_results.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463809383" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_form.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463823634" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_form.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463829098" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_results.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463832650" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/api/ws_api_tests_results.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463833467" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bounce_phrase_tester_result.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463841458" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/bounce_phrase_tester_result.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463851037" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list_refreshables.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463888151" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/deliverability/seed_list_refreshables.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463896092" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463998483" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464000385" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/page2.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464002409" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/page2.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464002933" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464004289" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/mail/parser/import/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464005165" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464062553" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464063704" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page2.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464064640" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page2.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464065316" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page3.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464066423" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/page3.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464067142" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464070298" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/delete_realm/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464070788" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/choose_master.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464072091" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/choose_master.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464072824" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/choose_master_none.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464073703" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/choose_master_none.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464074165" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/determine_updates.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464079244" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/determine_updates.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464080005" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/done.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464081067" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/admin/wizards/update/done.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464081612" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/advanced.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464384938" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/advanced.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464411638" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/group.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464428765" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/group.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464430219" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/main.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464439335" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/main.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464452850" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/options.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464465881" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/options.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464476677" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/sync.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464481776" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/sync.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464483397" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/tracking.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464484255" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/tracking.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464485133" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/vmta.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464491204" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/editing/vmta.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464507225" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/nolists.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464535787" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/nolists.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464536501" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464538294" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464539028" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page2.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464540089" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page2.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464540702" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page3.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464541411" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page3.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464541944" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page4.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464542452" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/page4.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464545414" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464546333" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway2/wizard/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464546951" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/nolists.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464547664" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/nolists.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464548178" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464549133" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/page1.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464549669" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464550421" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/nway/wizard/summary.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464550895" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/relational_tables_new.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464630848" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/rules/wsql_result.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464643294" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_deliverability.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464652971" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_deliverability.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464653505" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_fillins.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464657086" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_fillins.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464658312" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_final.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464659294" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_final.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464660305" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_social.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464674199" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_social.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464674883" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464697709" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/generated/site/metadata/web.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384476710392" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/style_guide/style_guide.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384477686458" ignored="false" />
+    <file path="/style_guide.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384476372249" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/css/style_guide/style_guide.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384477679360" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/db/master.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/ehcache.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/html/taskmanager/thread_row.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/generated/site/metadata/web.step1.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/bounce_phrases/bounce_phrases.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/html/publisher/thread_row.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/com/whatcounts/servlet/filters/owasp/resources/acl.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/generated/site/metadata/web.step2.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/html/publisher/smtp_row.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/html/taskmanager/status.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/html/taskmanager/smtp_row.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/dependencies.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/com/whatcounts/servlet/filters/owasp/resources/policies/antisamy-anythinggoes-1.4.1.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/db/master_seed.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/com/whatcounts/servlet/filters/owasp/resources/policies/antisamy-esapi.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384474754801" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/generated/site/html/wsdl/WhatCountsAPI.wsdl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/com/whatcounts/servlet/filters/owasp/resources/policies/antisamy-myspace-1.4.1.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/deploy/bin/com/whatcounts/servlet/filters/owasp/resources/policies/antisamy-slashdot-1.4.1.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
+    <file path="/style_guide.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384477686458" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/summary.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475508396" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/templates/polls/wizard/page1.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475508396" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/jscript/libs/MasterPage/MasterPage.js" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475596043" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/jscript/style_guide/StyleGuide.js" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384477799861" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +792,7 @@
       <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="19" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
+            <state line="88" column="26" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#24#48#0" expanded="false" />
                 <element signature="e#71#107#0" expanded="false" />
@@ -99,6 +808,8 @@
                 <element signature="e#2263#2290#0" expanded="false" />
                 <element signature="e#2297#2323#0" expanded="false" />
                 <element signature="e#2337#2361#0" expanded="false" />
+                <element signature="e#2376#2410#0" expanded="false" />
+                <element signature="e#2621#2655#0" expanded="false" />
                 <element signature="e#2850#2875#0" expanded="false" />
                 <element signature="e#3216#3685#0" expanded="false" />
                 <element signature="e#3724#3750#0" expanded="false" />
@@ -109,17 +820,66 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="StyleGuide.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/StyleGuide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="10" selection-start="921" selection-end="921" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="447" column="23" selection-start="17979" selection-end="17979" vertical-scroll-proportion="0.49071208">
+            <state line="668" column="4" selection-start="28714" selection-end="28714" vertical-scroll-proportion="0.2829912">
               <folding>
-                <element signature="n#style#0;n#p#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#5;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#5;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style_guide.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style_guide.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="189" column="1" selection-start="2669" selection-end="2669" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#35#127#0" expanded="false" />
+                <element signature="e#137#159#0" expanded="false" />
+                <element signature="e#176#196#0" expanded="false" />
+                <element signature="e#218#242#0" expanded="false" />
+                <element signature="e#269#296#0" expanded="false" />
+                <element signature="e#328#374#0" expanded="false" />
+                <element signature="e#403#548#0" expanded="false" />
+                <element signature="e#565#782#0" expanded="false" />
+                <element signature="e#806#832#0" expanded="false" />
+                <element signature="e#844#916#0" expanded="false" />
+                <element signature="e#928#983#0" expanded="false" />
+                <element signature="e#1001#1074#0" expanded="false" />
+                <element signature="e#1100#1134#0" expanded="false" />
+                <element signature="e#1181#1252#0" expanded="false" />
+                <element signature="e#1277#1305#0" expanded="false" />
+                <element signature="e#1323#1371#0" expanded="false" />
+                <element signature="e#1392#1448#0" expanded="false" />
+                <element signature="e#1477#1498#0" expanded="false" />
+                <element signature="e#1522#1549#0" expanded="false" />
+                <element signature="e#1557#1630#0" expanded="false" />
+                <element signature="e#1651#1745#0" expanded="false" />
+                <element signature="e#1759#1850#0" expanded="false" />
+                <element signature="e#1854#1880#0" expanded="false" />
+                <element signature="e#1894#1942#0" expanded="false" />
+                <element signature="e#1963#1987#0" expanded="false" />
+                <element signature="e#2003#2064#0" expanded="false" />
+                <element signature="e#2101#2133#0" expanded="false" />
+                <element signature="e#2154#2199#0" expanded="false" />
+                <element signature="e#2225#2268#0" expanded="false" />
+                <element signature="e#2341#2362#0" expanded="false" />
+                <element signature="e#2393#2421#0" expanded="false" />
+                <element signature="e#2439#2568#0" expanded="false" />
+                <element signature="e#2589#2613#0" expanded="false" />
+                <element signature="e#2645#2669#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -143,7 +903,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/style_guide.css" />
         <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
+        <option value="$PROJECT_DIR$/js/StyleGuide.js" />
         <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
       </list>
     </option>
@@ -180,7 +942,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,6 +970,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProStyleGuide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProStyleGuide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -216,21 +991,23 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_0f65d050d0c352fd38a0b25d82ee942deb19ef87/libexec/git-core/git.exe" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -370,7 +1147,11 @@
       <created>1384458381153</created>
       <updated>1384458381153</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="btn-info to btn-primary - III">
+      <created>1384458718647</created>
+      <updated>1384458718647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -446,7 +1227,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="btn-info to btn-primary - II" />
+    <option name="LAST_COMMIT_MESSAGE" value="btn-info to btn-primary - III" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -462,45 +1243,12 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="btn-info to btn-primary" />
     <MESSAGE value="btn-info to btn-primary - II" />
+    <MESSAGE value="btn-info to btn-primary - III" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="36" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-            <element signature="e#71#107#0" expanded="false" />
-            <element signature="e#180#203#0" expanded="false" />
-            <element signature="e#1300#1330#0" expanded="false" />
-            <element signature="e#1547#1598#0" expanded="false" />
-            <element signature="e#1943#1994#0" expanded="false" />
-            <element signature="e#2015#2039#0" expanded="false" />
-            <element signature="e#2060#2093#0" expanded="false" />
-            <element signature="e#2098#2140#0" expanded="false" />
-            <element signature="e#2145#2187#0" expanded="false" />
-            <element signature="e#2192#2259#0" expanded="false" />
-            <element signature="e#2263#2290#0" expanded="false" />
-            <element signature="e#2297#2323#0" expanded="false" />
-            <element signature="e#2337#2361#0" expanded="false" />
-            <element signature="e#2850#2875#0" expanded="false" />
-            <element signature="e#3216#3685#0" expanded="false" />
-            <element signature="e#3724#3750#0" expanded="false" />
-            <element signature="e#3848#3920#0" expanded="false" />
-            <element signature="e#4037#4075#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="735" column="0" selection-start="13774" selection-end="13966" vertical-scroll-proportion="0.0">
@@ -526,6 +1274,8 @@
             <element signature="e#2263#2290#0" expanded="false" />
             <element signature="e#2297#2323#0" expanded="false" />
             <element signature="e#2337#2361#0" expanded="false" />
+            <element signature="e#2376#2410#0" expanded="false" />
+            <element signature="e#2621#2655#0" expanded="false" />
             <element signature="e#2850#2875#0" expanded="false" />
             <element signature="e#3216#3685#0" expanded="false" />
             <element signature="e#3724#3750#0" expanded="false" />
@@ -537,14 +1287,219 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="447" column="23" selection-start="17979" selection-end="17979" vertical-scroll-proportion="0.49071208">
+        <state line="28" column="0" selection-start="1219" selection-end="44980" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#style#0;n#p#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#5;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#5;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#14;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="20" selection-start="0" selection-end="2421" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#35#127#0" expanded="false" />
+            <element signature="e#137#159#0" expanded="false" />
+            <element signature="e#176#196#0" expanded="false" />
+            <element signature="e#218#242#0" expanded="false" />
+            <element signature="e#269#296#0" expanded="false" />
+            <element signature="e#328#374#0" expanded="false" />
+            <element signature="e#403#548#0" expanded="false" />
+            <element signature="e#565#782#0" expanded="false" />
+            <element signature="e#806#832#0" expanded="false" />
+            <element signature="e#844#916#0" expanded="false" />
+            <element signature="e#928#983#0" expanded="false" />
+            <element signature="e#1001#1074#0" expanded="false" />
+            <element signature="e#1100#1134#0" expanded="false" />
+            <element signature="e#1181#1252#0" expanded="false" />
+            <element signature="e#1277#1305#0" expanded="false" />
+            <element signature="e#1323#1371#0" expanded="false" />
+            <element signature="e#1392#1448#0" expanded="false" />
+            <element signature="e#1477#1498#0" expanded="false" />
+            <element signature="e#1522#1549#0" expanded="false" />
+            <element signature="e#1557#1630#0" expanded="false" />
+            <element signature="e#1651#1745#0" expanded="false" />
+            <element signature="e#1759#1850#0" expanded="false" />
+            <element signature="e#1854#1880#0" expanded="false" />
+            <element signature="e#1894#1942#0" expanded="false" />
+            <element signature="e#1963#1987#0" expanded="false" />
+            <element signature="e#2003#2064#0" expanded="false" />
+            <element signature="e#2101#2133#0" expanded="false" />
+            <element signature="e#2154#2199#0" expanded="false" />
+            <element signature="e#2225#2268#0" expanded="false" />
+            <element signature="e#2341#2362#0" expanded="false" />
+            <element signature="e#2393#2421#0" expanded="false" />
+            <element signature="e#2439#2568#0" expanded="false" />
+            <element signature="e#2589#2613#0" expanded="false" />
+            <element signature="e#2645#2669#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="19" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#48#0" expanded="false" />
+            <element signature="e#71#107#0" expanded="false" />
+            <element signature="e#180#203#0" expanded="false" />
+            <element signature="e#1300#1330#0" expanded="false" />
+            <element signature="e#1547#1598#0" expanded="false" />
+            <element signature="e#1943#1994#0" expanded="false" />
+            <element signature="e#2015#2039#0" expanded="false" />
+            <element signature="e#2060#2093#0" expanded="false" />
+            <element signature="e#2098#2140#0" expanded="false" />
+            <element signature="e#2145#2187#0" expanded="false" />
+            <element signature="e#2192#2259#0" expanded="false" />
+            <element signature="e#2263#2290#0" expanded="false" />
+            <element signature="e#2297#2323#0" expanded="false" />
+            <element signature="e#2337#2361#0" expanded="false" />
+            <element signature="e#2376#2410#0" expanded="false" />
+            <element signature="e#2621#2655#0" expanded="false" />
+            <element signature="e#2850#2875#0" expanded="false" />
+            <element signature="e#3216#3685#0" expanded="false" />
+            <element signature="e#3724#3750#0" expanded="false" />
+            <element signature="e#3848#3920#0" expanded="false" />
+            <element signature="e#4037#4075#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="36" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#48#0" expanded="false" />
+            <element signature="e#71#107#0" expanded="false" />
+            <element signature="e#180#203#0" expanded="false" />
+            <element signature="e#1300#1330#0" expanded="false" />
+            <element signature="e#1547#1598#0" expanded="false" />
+            <element signature="e#1943#1994#0" expanded="false" />
+            <element signature="e#2015#2039#0" expanded="false" />
+            <element signature="e#2060#2093#0" expanded="false" />
+            <element signature="e#2098#2140#0" expanded="false" />
+            <element signature="e#2145#2187#0" expanded="false" />
+            <element signature="e#2192#2259#0" expanded="false" />
+            <element signature="e#2263#2290#0" expanded="false" />
+            <element signature="e#2297#2323#0" expanded="false" />
+            <element signature="e#2337#2361#0" expanded="false" />
+            <element signature="e#2376#2410#0" expanded="false" />
+            <element signature="e#2621#2655#0" expanded="false" />
+            <element signature="e#2850#2875#0" expanded="false" />
+            <element signature="e#3216#3685#0" expanded="false" />
+            <element signature="e#3724#3750#0" expanded="false" />
+            <element signature="e#3848#3920#0" expanded="false" />
+            <element signature="e#4037#4075#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="735" column="0" selection-start="13774" selection-end="13966" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="189" column="1" selection-start="2669" selection-end="2669" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#35#127#0" expanded="false" />
+            <element signature="e#137#159#0" expanded="false" />
+            <element signature="e#176#196#0" expanded="false" />
+            <element signature="e#218#242#0" expanded="false" />
+            <element signature="e#269#296#0" expanded="false" />
+            <element signature="e#328#374#0" expanded="false" />
+            <element signature="e#403#548#0" expanded="false" />
+            <element signature="e#565#782#0" expanded="false" />
+            <element signature="e#806#832#0" expanded="false" />
+            <element signature="e#844#916#0" expanded="false" />
+            <element signature="e#928#983#0" expanded="false" />
+            <element signature="e#1001#1074#0" expanded="false" />
+            <element signature="e#1100#1134#0" expanded="false" />
+            <element signature="e#1181#1252#0" expanded="false" />
+            <element signature="e#1277#1305#0" expanded="false" />
+            <element signature="e#1323#1371#0" expanded="false" />
+            <element signature="e#1392#1448#0" expanded="false" />
+            <element signature="e#1477#1498#0" expanded="false" />
+            <element signature="e#1522#1549#0" expanded="false" />
+            <element signature="e#1557#1630#0" expanded="false" />
+            <element signature="e#1651#1745#0" expanded="false" />
+            <element signature="e#1759#1850#0" expanded="false" />
+            <element signature="e#1854#1880#0" expanded="false" />
+            <element signature="e#1894#1942#0" expanded="false" />
+            <element signature="e#1963#1987#0" expanded="false" />
+            <element signature="e#2003#2064#0" expanded="false" />
+            <element signature="e#2101#2133#0" expanded="false" />
+            <element signature="e#2154#2199#0" expanded="false" />
+            <element signature="e#2225#2268#0" expanded="false" />
+            <element signature="e#2341#2362#0" expanded="false" />
+            <element signature="e#2393#2421#0" expanded="false" />
+            <element signature="e#2439#2568#0" expanded="false" />
+            <element signature="e#2589#2613#0" expanded="false" />
+            <element signature="e#2645#2669#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="26" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#48#0" expanded="false" />
+            <element signature="e#71#107#0" expanded="false" />
+            <element signature="e#180#203#0" expanded="false" />
+            <element signature="e#1300#1330#0" expanded="false" />
+            <element signature="e#1547#1598#0" expanded="false" />
+            <element signature="e#1943#1994#0" expanded="false" />
+            <element signature="e#2015#2039#0" expanded="false" />
+            <element signature="e#2060#2093#0" expanded="false" />
+            <element signature="e#2098#2140#0" expanded="false" />
+            <element signature="e#2145#2187#0" expanded="false" />
+            <element signature="e#2192#2259#0" expanded="false" />
+            <element signature="e#2263#2290#0" expanded="false" />
+            <element signature="e#2297#2323#0" expanded="false" />
+            <element signature="e#2337#2361#0" expanded="false" />
+            <element signature="e#2376#2410#0" expanded="false" />
+            <element signature="e#2621#2655#0" expanded="false" />
+            <element signature="e#2850#2875#0" expanded="false" />
+            <element signature="e#3216#3685#0" expanded="false" />
+            <element signature="e#3724#3750#0" expanded="false" />
+            <element signature="e#3848#3920#0" expanded="false" />
+            <element signature="e#4037#4075#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/StyleGuide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="10" selection-start="921" selection-end="921" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="668" column="4" selection-start="28714" selection-end="28714" vertical-scroll-proportion="0.2829912">
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

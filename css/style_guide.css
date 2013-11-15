@@ -1,28 +1,31 @@
 /*EXAMPLE MARKUP*/
 
-#PageContainer{
-max-width: 1200px;
-min-width: 940px;
-padding: 15px 0;
-margin: 25px auto;
+#PageContainer {
+    max-width: 1200px;
+    min-width: 940px;
+    padding: 15px 0;
+    margin: 25px auto;
 }
 
-Section{
-padding: 15px;
+Section {
+    padding: 15px;
 }
 
-#LayoutSection{
-Width: 100%;
+#LayoutSection {
+    Width: 100%;
 }
-#LayoutSection .row{
-margin: 0px 0px;
+
+#LayoutSection .row {
+    margin: 0px 0px;
 }
-#LayoutSection #grid1200{
-margin-left: -15px;
+
+#LayoutSection #grid1200 {
+    margin-left: -15px;
 }
-#LayoutSection #BootstrapGrid{
-width: 1200px;
-margin-left: -15px;
+
+#LayoutSection #BootstrapGrid {
+    width: 1200px;
+    margin-left: -15px;
 }
 
 .show-grid [class^="col-"] {
@@ -32,25 +35,7 @@ margin-left: -15px;
     padding-top: 10px;
 }
 
-xmp {
-    background: none repeat scroll 0 0 #F4F4F4;
-    border: 1px solid #E1E1E1;
-    border-radius: 6px;
-    clear: both;
-    color: #555555;
-    display: block;
-    font-family: "Courier 10 Pitch",Courier,monospace;
-    font-size: 90%;
-    height: 1%;
-    line-height: 1.2em;
-    margin: 15px;
-    padding: 15px;
-    white-space: pre-wrap;
-    width: auto;
-}
-
-
-mark, .example{
+mark, .example {
     background: none repeat scroll 0 0 #F4F4F4;
     border: 1px solid #E1E1E1;
     clear: both;
@@ -62,60 +47,62 @@ mark, .example{
     width: auto;
 }
 
-xmp, pre, .wp_syntax, mark {
+pre, .wp_syntax, mark {
     word-wrap: normal;
 }
-xmp, pre, mark {
+
+pre, mark {
     overflow-x: auto;
     overflow-y: hidden;
     word-wrap: normal;
 }
-xmp, code, pre {
-    font-family: "Courier New",Courier,monospace;
+
+code, pre {
+    font-family: "Courier New", Courier, monospace;
 }
 
 /*TABS*/
 
-#tabs{
+#tabs {
     font-family: 'Average Sans', Arial, SANS-SERIF;
     width: 450px;
 }
 
-#tabs div p, .ui-widget{
+#tabs div p, .ui-widget {
     font-size: 1em !important;
 }
 
 /*BUTTONS & ICONS*/
 
-#ButtonExampleContainer{
+#ButtonExampleContainer {
     width: 500px;
     background-color: #555555;
     padding: 10px;
 }
 
-#IconTable tbody tr td{
+#IconTable tbody tr td {
     vertical-align: top;
 }
 
-#ButtonTable td{
+#ButtonTable td {
     padding: 0 15px;
     text-align: center;
 }
 
-#ButtonExamples li{
+#ButtonExamples li {
     list-style-type: none;
     padding-bottom: 25px;
 }
 
 /*DIALOG*/
 
-#ExampleDialog{
+#ExampleDialog {
     width: 500px;
 }
 
 /*LAYOUT*/
 
-.centered{
+.centered {
     text-align: center;
 }
 
@@ -125,14 +112,14 @@ small {
     padding-top: 15px;
 }
 
-.grid-unit-example{
+.grid-unit-example {
     background-color: #B3B3B3;
     font-weight: bold;
     color: #FFF;
     font-size: 75%;
 }
 
-.master-box{
+.master-box {
     background-color: white;
     border-radius: 5px 5px 5px 5px;
     padding: 5px 15px;
@@ -147,7 +134,7 @@ p {
     margin-left: -15px;
 }
 
-.demo-icons > span{
+.demo-icons > span {
     cursor: pointer;
 }
 
@@ -155,4 +142,49 @@ p {
     float: left;
     margin-left: 20px;
     width: 580px;
+}
+
+.input-group, .input-group > input {
+    width: 150px !important;
+}
+
+#InputTypeExamples {
+    position: relative;
+    width: 400px;
+}
+
+#InputTypeExamples > li {
+    padding-top: 10px;
+    clear: both;
+}
+
+#InputTypeExamples > li > label, #InputTypeExamples > li > .form-group {
+    float: right;
+}
+
+#ExampleButtons > li > button{
+    margin-bottom: 10px;
+}
+
+.col-md-example {
+    width: 21%;
+    float:left;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+
+/*HEADER TAGS*/
+
+h5{
+    font-size: 15px;
+}
+
+h4{
+    font-size: 17px;
+}
+
+h3{
+    font-size: 20px;
 }

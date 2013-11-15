@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
         $(this).radio();
     });
 
-    $("select").selectpicker({style: 'btn btn-info', menuStyle: 'dropdown-inverse'});
+    $("select").selectpicker({style: 'btn btn-primary', menuStyle: 'dropdown-inverse'});
 
     $('.table-sort').tablesorter();
 

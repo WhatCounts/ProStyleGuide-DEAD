@@ -7,7 +7,7 @@
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541399876" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541979201" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541361011" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541894283" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -805,10 +805,10 @@
       <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="873" column="30" selection-start="38476" selection-end="38476" vertical-scroll-proportion="0.5947205">
+            <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="0.25310558">
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#1;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1143,7 +1143,11 @@
       <created>1384541404532</created>
       <updated>1384541404532</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Remove placement">
+      <created>1384541990492</created>
+      <updated>1384541990492</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1219,7 +1223,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trash can color changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove placement" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1244,6 +1248,7 @@
     <MESSAGE value="Change links to highlight darker blue." />
     <MESSAGE value="Links should be underlined on active" />
     <MESSAGE value="Trash can color changes." />
+    <MESSAGE value="Remove placement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1254,7 +1259,7 @@
         <state line="681" column="62" selection-start="29077" selection-end="29077" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#1;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1324,7 +1329,7 @@
         <state line="28" column="0" selection-start="1219" selection-end="44980" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#1;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1487,10 +1492,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="873" column="30" selection-start="38476" selection-end="38476" vertical-scroll-proportion="0.5947205">
+        <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="0.25310558">
           <folding>
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#1;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

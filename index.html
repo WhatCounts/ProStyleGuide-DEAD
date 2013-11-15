@@ -607,9 +607,16 @@
     <li>text: <label>
         <input type="text"/>
     </label></li>
-    <li>calendar: <label>
-        <input class="date-pick" type="text" value=""/>
-    </label></li>
+    <li>calendar:
+        <div class="form-group">
+            <div class="input-group">
+		          	  <span class="input-group-btn">
+		          	  	<button type="button" class="btn"><span class="fui-calendar"></span></button>
+		          	  </span>
+                <input type="text" id="DatePickerExample" value="14" class="form-control">
+            </div>
+        </div>
+</li>
     <li>number: <label>
         <input type="number"/>
     </label></li>

@@ -149,3 +149,11 @@ button.btn, input.btn[type="submit"] {
 .table .checkbox, .table .radio {
     margin: 0;
 }
+
+.table span[class*="fui"] {
+    cursor: pointer;
+}
+
+a:hover, a:focus{
+    color: #2980b9;
+}

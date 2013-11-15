@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProStyleGuide.htm" afterPath="$PROJECT_DIR$/ProStyleGuide.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" afterPath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541979201" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384542055416" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541361011" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541894283" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -782,10 +782,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="1" selection-start="4170" selection-end="4170" vertical-scroll-proportion="0.0">
+            <state line="52" column="1" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.4618705">
               <folding />
             </state>
           </provider>
@@ -802,10 +802,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="0.25310558">
+            <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="-3.1960785">
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -884,8 +884,8 @@
         <option value="$PROJECT_DIR$/css/style_guide.css" />
         <option value="$PROJECT_DIR$/css/flat-ui.css" />
         <option value="$PROJECT_DIR$/Deleteme.html" />
-        <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
         <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
+        <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
       </list>
     </option>
   </component>
@@ -1147,7 +1147,11 @@
       <created>1384541990492</created>
       <updated>1384541990492</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Remove placement">
+      <created>1384542066835</created>
+      <updated>1384542066835</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1483,20 +1487,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="1" selection-start="4170" selection-end="4170" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="0.25310558">
+        <state line="699" column="8" selection-start="29543" selection-end="29543" vertical-scroll-proportion="-3.1960785">
           <folding>
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="1" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.4618705">
+          <folding />
         </state>
       </provider>
     </entry>

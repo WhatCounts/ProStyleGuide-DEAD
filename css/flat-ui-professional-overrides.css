@@ -43,6 +43,11 @@ a {
     cursor: pointer;
 }
 
+.nav-tabs > li {
+    margin-bottom: -3px;
+    position: relative;
+}
+
 #ui-datepicker-div {
     z-index: 3000 !important;
 }

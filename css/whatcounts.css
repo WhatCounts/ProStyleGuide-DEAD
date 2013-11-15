@@ -47,11 +47,15 @@ p {
 }
 
 thead > tr > .headerSortUp {
-    background: url("/images/tables/asc.png") right center no-repeat;
+    background: url("../images/tables/asc.png") right center no-repeat;
 }
 
 thead > tr > .headerSortDown {
-    background: url("/images/tables/desc.png") right center no-repeat;
+    background: url("../images/tables/desc.png") right center no-repeat;
+}
+
+.table-sort > thead > tr > th{
+    cursor: pointer;
 }
 
 .datepicker {

@@ -116,6 +116,11 @@ p {
     margin-bottom: 0;
 }
 
+.dropdown-menu.dropdown-inverse {
+    width: auto;
+    min-width: 100%;
+}
+
 select, textarea, input[type="text"], input[type="password"],
 input[type="datetime"], input[type="datetime-local"], input[type="date"],
 input[type="month"], input[type="time"], input[type="week"], input[type="number"],

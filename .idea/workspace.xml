@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProStyleGuide.htm" afterPath="$PROJECT_DIR$/ProStyleGuide.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/StyleGuide.js" afterPath="$PROJECT_DIR$/js/StyleGuide.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384548184929" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384551089692" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384546352418" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384551003153" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -1350,7 +1348,11 @@
       <created>1384547319826</created>
       <updated>1384547319826</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fix date picker.">
+      <created>1384551104928</created>
+      <updated>1384551104928</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1426,7 +1428,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Chrome outline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix date picker." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1458,6 +1460,7 @@
     <MESSAGE value="Brandon changes/updates" />
     <MESSAGE value="Fix dropdown thing." />
     <MESSAGE value="Remove Chrome outline" />
+    <MESSAGE value="Fix date picker." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

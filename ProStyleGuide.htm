@@ -21,8 +21,9 @@
 <div id="MenuBarContainer">
     <div id="MenuBar">
         <ul class="group top-nav" id="Nav">
-            <li id="WhatCountsLogo" class="logo"><a href="http://localhost:8080/bin/front"><img src="images/top-logo.png"
-                                                                                                border="0"></a>
+            <li id="WhatCountsLogo" class="logo"><a href="http://localhost:8080/bin/front"><img
+                    src="images/top-logo.png"
+                    border="0"></a>
             </li>
         </ul>
     </div>
@@ -691,6 +692,117 @@
         <button class="btn btn-primary" type="button" id="SaveRecord">Save Record</button>
     </li>
 </ul>
+
+<p>Add buttons should be suffixed with a "+" icon, as below in the example of button layout for table grids&mdash;which
+    also serves as a guide to laying out buttons with tables:</p>
+
+<div class="example">
+    <p class="pull-right">
+        <a href="/flex/segmentation_rules?name=&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D"
+           class="btn btn-primary">Add
+            Standard Rule <span class="fui-plus"></span></a>
+        <a href="/bin/edit_wsql?cmd=new&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D"
+           class="btn btn-primary">Add
+            Advanced Rule <span class="fui-plus"></span></a>
+    </p>
+
+    <div class="clearfix"></div>
+    <div class="pull-left">
+        Filter:
+        <input type="text" name="search" value="" id="filter_box" placeholder="Filter rows...">&nbsp;&nbsp;&nbsp;&nbsp;
+        Folder:
+        <select onchange="refreshFolders();" name="folder" id="folder_ddl" style="display: none;">
+            <option value="0">-- All Folders --
+            </option>
+            <option value="-2">-- Unfiled --
+            </option>
+            <option value="60">jjj</option>
+            <option value="147">The Ish I Dish: The Unauthorized Trouble Helmsley Autobiography</option>
+
+        </select>&nbsp;<a class="btn btn-primary" href="/bin/folder_manager">Manage</a></div>
+    &nbsp;
+
+
+    <div class="clearfix"></div>
+    <br/>
+
+    <div class="table-wrapper group">
+        <table class="table table-striped table-hover">
+            <thead>
+            <tr>
+                <th>
+                    <label class="checkbox" id="SelectToggle">
+                        <input type="checkbox"
+                               name="select_seg_1794"
+                               id="SelectAll"
+                               data-toggle="checkbox"></label>
+                </th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Folder</th>
+                <th>Type</th>
+                <th></th>
+            </tr>
+            </thead>
+
+            <tbody class="campaign-table">
+
+            <tr>
+                <td>
+                    <label class="checkbox">
+                        <input type="checkbox"
+                               name="select_seg_1794"
+                               id="select_seg_1794"
+                               data-toggle="checkbox"></label>
+                </td>
+                <td>
+                    <a href="/flex/segmentation_rules?name=3333week3 [1]&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D">3333week3
+                        [1]</a></td>
+                <td>
+                    <a href="/flex/segmentation_rules?name=3333week3 [1]&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D">N-Way
+                        sampling rule #1 created for segmenting out the list LMAU</a></td>
+                <td>Unfiled</td>
+                <td>STANDARD</td>
+                <td>
+                    <a href="#" class="btn btn-primary btn-xs">Delete</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label class="checkbox">
+                        <input type="checkbox"
+                               name="select_seg_1794"
+                               id="select_seg_1795"
+                               data-toggle="checkbox"></label>
+                </td>
+                <td>
+                    <a href="/flex/segmentation_rules?name=3333week3 [2]&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D">3333week3
+                        [2]</a></td>
+                <td>
+                    <a href="/flex/segmentation_rules?name=3333week3 [2]&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D">N-Way
+                        sampling rule #2 created for segmenting out the list LMAU</a></td>
+                <td>Unfiled</td>
+                <td>STANDARD</td>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-primary btn-xs">Delete</a>
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+        <p class="pull-right">
+            <a href="/flex/segmentation_rules?name=&amp;from=html&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D"
+               class="btn btn-primary">Add
+                Standard Rule <span class="fui-plus"></span></a>
+            <a href="/bin/edit_wsql?cmd=new&amp;CSRFChallengeToken=%2560V%25BC%25F9%2517%259Da%25871%259B%255EvE%2513%25A3%2580xu%25D8e%25C8%25CD7Q%251B%2511a%25F9%25C8H%25B1%2502%2540S%25F9s%2591%25AD%25D2%259C%25CCF%25D3Nx%25D2U%25D5%25C5%2514I4%2524r%2598%25A6%25E7%25F01%25F7%25C1A%25D8%250D"
+               class="btn btn-primary">Add
+                Advanced Rule <span class="fui-plus"></span></a>
+        </p>
+
+        <div class="clearfix"></div>
+    </div>
+</div>
 
 <p>
     Actions are actions from the user's perspective, not the application's. Therefore, there are times when it is

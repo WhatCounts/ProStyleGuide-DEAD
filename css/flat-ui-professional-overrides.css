@@ -154,6 +154,14 @@ button.btn, input.btn[type="submit"] {
     cursor: pointer;
 }
 
+.table .fui-trash{
+    color: #95A1AC;
+}
+
+.table .fui-trash:hover{
+    color: #e74c3c;
+}
+
 a:hover, a:focus{
     color: #2980b9;
     text-decoration: underline;

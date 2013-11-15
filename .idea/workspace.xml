@@ -7,8 +7,8 @@
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384540849806" ignored="false" />
-    <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541012502" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541126231" ignored="false" />
+    <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384541361011" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384537860984" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463611367" ignored="false" />
@@ -785,7 +785,7 @@
       <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="1" selection-start="4222" selection-end="4222" vertical-scroll-proportion="0.8043165">
+            <state line="150" column="1" selection-start="4170" selection-end="4170" vertical-scroll-proportion="0.657554">
               <folding />
             </state>
           </provider>
@@ -1136,7 +1136,11 @@
       <created>1384540856657</created>
       <updated>1384540856657</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Links should be underlined on active">
+      <created>1384541312091</created>
+      <updated>1384541312091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1212,7 +1216,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change links to highlight darker blue." />
+    <option name="LAST_COMMIT_MESSAGE" value="Links should be underlined on active" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1235,6 +1239,7 @@
     <MESSAGE value="Add button/table layout" />
     <MESSAGE value="Update the table checkboxes and table radios to margin 0." />
     <MESSAGE value="Change links to highlight darker blue." />
+    <MESSAGE value="Links should be underlined on active" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1484,7 +1489,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="1" selection-start="4222" selection-end="4222" vertical-scroll-proportion="0.8043165">
+        <state line="150" column="1" selection-start="4170" selection-end="4170" vertical-scroll-proportion="0.657554">
           <folding />
         </state>
       </provider>

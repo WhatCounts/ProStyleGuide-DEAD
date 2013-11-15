@@ -141,7 +141,11 @@ p {
 .demo-content {
     float: left;
     margin-left: 20px;
-    width: 580px;
+    width: 100%;
+}
+
+.demo-content > pre {
+    width: 680px;
 }
 
 .input-group, .input-group > input {

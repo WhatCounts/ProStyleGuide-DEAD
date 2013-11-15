@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProStyleGuide.htm" afterPath="$PROJECT_DIR$/ProStyleGuide.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/StyleGuide.js" afterPath="$PROJECT_DIR$/js/StyleGuide.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" afterPath="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_guide.css" afterPath="$PROJECT_DIR$/css/style_guide.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475921813" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384530613728" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384458567483" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384472669421" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -793,29 +791,7 @@
         <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="88" column="26" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#24#48#0" expanded="false" />
-                <element signature="e#71#107#0" expanded="false" />
-                <element signature="e#180#203#0" expanded="false" />
-                <element signature="e#1300#1330#0" expanded="false" />
-                <element signature="e#1547#1598#0" expanded="false" />
-                <element signature="e#1943#1994#0" expanded="false" />
-                <element signature="e#2015#2039#0" expanded="false" />
-                <element signature="e#2060#2093#0" expanded="false" />
-                <element signature="e#2098#2140#0" expanded="false" />
-                <element signature="e#2145#2187#0" expanded="false" />
-                <element signature="e#2192#2259#0" expanded="false" />
-                <element signature="e#2263#2290#0" expanded="false" />
-                <element signature="e#2297#2323#0" expanded="false" />
-                <element signature="e#2337#2361#0" expanded="false" />
-                <element signature="e#2376#2410#0" expanded="false" />
-                <element signature="e#2621#2655#0" expanded="false" />
-                <element signature="e#2850#2875#0" expanded="false" />
-                <element signature="e#3216#3685#0" expanded="false" />
-                <element signature="e#3724#3750#0" expanded="false" />
-                <element signature="e#3848#3920#0" expanded="false" />
-                <element signature="e#4037#4075#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -829,11 +805,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="668" column="4" selection-start="28714" selection-end="28714" vertical-scroll-proportion="0.2829912">
+            <state line="1122" column="6" selection-start="44880" selection-end="44880" vertical-scroll-proportion="-18.307692">
               <folding>
+                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -841,46 +818,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style_guide.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style_guide.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style_guide.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="189" column="1" selection-start="2669" selection-end="2669" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#35#127#0" expanded="false" />
-                <element signature="e#137#159#0" expanded="false" />
-                <element signature="e#176#196#0" expanded="false" />
-                <element signature="e#218#242#0" expanded="false" />
-                <element signature="e#269#296#0" expanded="false" />
-                <element signature="e#328#374#0" expanded="false" />
-                <element signature="e#403#548#0" expanded="false" />
-                <element signature="e#565#782#0" expanded="false" />
-                <element signature="e#806#832#0" expanded="false" />
-                <element signature="e#844#916#0" expanded="false" />
-                <element signature="e#928#983#0" expanded="false" />
-                <element signature="e#1001#1074#0" expanded="false" />
-                <element signature="e#1100#1134#0" expanded="false" />
-                <element signature="e#1181#1252#0" expanded="false" />
-                <element signature="e#1277#1305#0" expanded="false" />
-                <element signature="e#1323#1371#0" expanded="false" />
-                <element signature="e#1392#1448#0" expanded="false" />
-                <element signature="e#1477#1498#0" expanded="false" />
-                <element signature="e#1522#1549#0" expanded="false" />
-                <element signature="e#1557#1630#0" expanded="false" />
-                <element signature="e#1651#1745#0" expanded="false" />
-                <element signature="e#1759#1850#0" expanded="false" />
-                <element signature="e#1854#1880#0" expanded="false" />
-                <element signature="e#1894#1942#0" expanded="false" />
-                <element signature="e#1963#1987#0" expanded="false" />
-                <element signature="e#2003#2064#0" expanded="false" />
-                <element signature="e#2101#2133#0" expanded="false" />
-                <element signature="e#2154#2199#0" expanded="false" />
-                <element signature="e#2225#2268#0" expanded="false" />
-                <element signature="e#2341#2362#0" expanded="false" />
-                <element signature="e#2393#2421#0" expanded="false" />
-                <element signature="e#2439#2568#0" expanded="false" />
-                <element signature="e#2589#2613#0" expanded="false" />
-                <element signature="e#2645#2669#0" expanded="false" />
-              </folding>
+            <state line="177" column="24" selection-start="2584" selection-end="2584" vertical-scroll-proportion="0.5690141">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -903,10 +845,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/style_guide.css" />
         <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
         <option value="$PROJECT_DIR$/js/StyleGuide.js" />
         <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
+        <option value="$PROJECT_DIR$/css/style_guide.css" />
       </list>
     </option>
   </component>
@@ -990,8 +932,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1006,8 +948,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1022,19 +964,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1065,6 +994,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1078,6 +1020,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1099,13 +1048,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -1151,7 +1093,11 @@
       <created>1384458718647</created>
       <updated>1384458718647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add examples">
+      <created>1384477860821</created>
+      <updated>1384477860821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1227,7 +1173,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="btn-info to btn-primary - III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add examples" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1244,11 +1190,37 @@
     <MESSAGE value="btn-info to btn-primary" />
     <MESSAGE value="btn-info to btn-primary - II" />
     <MESSAGE value="btn-info to btn-primary - III" />
+    <MESSAGE value="Add examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/StyleGuide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="10" selection-start="921" selection-end="921" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="681" column="62" selection-start="29077" selection-end="29077" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="189" column="1" selection-start="2669" selection-end="2669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/flat-ui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="735" column="0" selection-start="13774" selection-end="13966" vertical-scroll-proportion="0.0">
@@ -1259,29 +1231,7 @@
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="86" column="19" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-            <element signature="e#71#107#0" expanded="false" />
-            <element signature="e#180#203#0" expanded="false" />
-            <element signature="e#1300#1330#0" expanded="false" />
-            <element signature="e#1547#1598#0" expanded="false" />
-            <element signature="e#1943#1994#0" expanded="false" />
-            <element signature="e#2015#2039#0" expanded="false" />
-            <element signature="e#2060#2093#0" expanded="false" />
-            <element signature="e#2098#2140#0" expanded="false" />
-            <element signature="e#2145#2187#0" expanded="false" />
-            <element signature="e#2192#2259#0" expanded="false" />
-            <element signature="e#2263#2290#0" expanded="false" />
-            <element signature="e#2297#2323#0" expanded="false" />
-            <element signature="e#2337#2361#0" expanded="false" />
-            <element signature="e#2376#2410#0" expanded="false" />
-            <element signature="e#2621#2655#0" expanded="false" />
-            <element signature="e#2850#2875#0" expanded="false" />
-            <element signature="e#3216#3685#0" expanded="false" />
-            <element signature="e#3724#3750#0" expanded="false" />
-            <element signature="e#3848#3920#0" expanded="false" />
-            <element signature="e#4037#4075#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,6 +1239,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="1219" selection-end="44980" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1298,42 +1249,7 @@
     <entry file="file://$PROJECT_DIR$/css/style_guide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="136" column="20" selection-start="0" selection-end="2421" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#35#127#0" expanded="false" />
-            <element signature="e#137#159#0" expanded="false" />
-            <element signature="e#176#196#0" expanded="false" />
-            <element signature="e#218#242#0" expanded="false" />
-            <element signature="e#269#296#0" expanded="false" />
-            <element signature="e#328#374#0" expanded="false" />
-            <element signature="e#403#548#0" expanded="false" />
-            <element signature="e#565#782#0" expanded="false" />
-            <element signature="e#806#832#0" expanded="false" />
-            <element signature="e#844#916#0" expanded="false" />
-            <element signature="e#928#983#0" expanded="false" />
-            <element signature="e#1001#1074#0" expanded="false" />
-            <element signature="e#1100#1134#0" expanded="false" />
-            <element signature="e#1181#1252#0" expanded="false" />
-            <element signature="e#1277#1305#0" expanded="false" />
-            <element signature="e#1323#1371#0" expanded="false" />
-            <element signature="e#1392#1448#0" expanded="false" />
-            <element signature="e#1477#1498#0" expanded="false" />
-            <element signature="e#1522#1549#0" expanded="false" />
-            <element signature="e#1557#1630#0" expanded="false" />
-            <element signature="e#1651#1745#0" expanded="false" />
-            <element signature="e#1759#1850#0" expanded="false" />
-            <element signature="e#1854#1880#0" expanded="false" />
-            <element signature="e#1894#1942#0" expanded="false" />
-            <element signature="e#1963#1987#0" expanded="false" />
-            <element signature="e#2003#2064#0" expanded="false" />
-            <element signature="e#2101#2133#0" expanded="false" />
-            <element signature="e#2154#2199#0" expanded="false" />
-            <element signature="e#2225#2268#0" expanded="false" />
-            <element signature="e#2341#2362#0" expanded="false" />
-            <element signature="e#2393#2421#0" expanded="false" />
-            <element signature="e#2439#2568#0" expanded="false" />
-            <element signature="e#2589#2613#0" expanded="false" />
-            <element signature="e#2645#2669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1347,29 +1263,7 @@
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="86" column="19" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-            <element signature="e#71#107#0" expanded="false" />
-            <element signature="e#180#203#0" expanded="false" />
-            <element signature="e#1300#1330#0" expanded="false" />
-            <element signature="e#1547#1598#0" expanded="false" />
-            <element signature="e#1943#1994#0" expanded="false" />
-            <element signature="e#2015#2039#0" expanded="false" />
-            <element signature="e#2060#2093#0" expanded="false" />
-            <element signature="e#2098#2140#0" expanded="false" />
-            <element signature="e#2145#2187#0" expanded="false" />
-            <element signature="e#2192#2259#0" expanded="false" />
-            <element signature="e#2263#2290#0" expanded="false" />
-            <element signature="e#2297#2323#0" expanded="false" />
-            <element signature="e#2337#2361#0" expanded="false" />
-            <element signature="e#2376#2410#0" expanded="false" />
-            <element signature="e#2621#2655#0" expanded="false" />
-            <element signature="e#2850#2875#0" expanded="false" />
-            <element signature="e#3216#3685#0" expanded="false" />
-            <element signature="e#3724#3750#0" expanded="false" />
-            <element signature="e#3848#3920#0" expanded="false" />
-            <element signature="e#4037#4075#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1383,29 +1277,7 @@
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="36" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-            <element signature="e#71#107#0" expanded="false" />
-            <element signature="e#180#203#0" expanded="false" />
-            <element signature="e#1300#1330#0" expanded="false" />
-            <element signature="e#1547#1598#0" expanded="false" />
-            <element signature="e#1943#1994#0" expanded="false" />
-            <element signature="e#2015#2039#0" expanded="false" />
-            <element signature="e#2060#2093#0" expanded="false" />
-            <element signature="e#2098#2140#0" expanded="false" />
-            <element signature="e#2145#2187#0" expanded="false" />
-            <element signature="e#2192#2259#0" expanded="false" />
-            <element signature="e#2263#2290#0" expanded="false" />
-            <element signature="e#2297#2323#0" expanded="false" />
-            <element signature="e#2337#2361#0" expanded="false" />
-            <element signature="e#2376#2410#0" expanded="false" />
-            <element signature="e#2621#2655#0" expanded="false" />
-            <element signature="e#2850#2875#0" expanded="false" />
-            <element signature="e#3216#3685#0" expanded="false" />
-            <element signature="e#3724#3750#0" expanded="false" />
-            <element signature="e#3848#3920#0" expanded="false" />
-            <element signature="e#4037#4075#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1416,74 +1288,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_guide.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="189" column="1" selection-start="2669" selection-end="2669" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#35#127#0" expanded="false" />
-            <element signature="e#137#159#0" expanded="false" />
-            <element signature="e#176#196#0" expanded="false" />
-            <element signature="e#218#242#0" expanded="false" />
-            <element signature="e#269#296#0" expanded="false" />
-            <element signature="e#328#374#0" expanded="false" />
-            <element signature="e#403#548#0" expanded="false" />
-            <element signature="e#565#782#0" expanded="false" />
-            <element signature="e#806#832#0" expanded="false" />
-            <element signature="e#844#916#0" expanded="false" />
-            <element signature="e#928#983#0" expanded="false" />
-            <element signature="e#1001#1074#0" expanded="false" />
-            <element signature="e#1100#1134#0" expanded="false" />
-            <element signature="e#1181#1252#0" expanded="false" />
-            <element signature="e#1277#1305#0" expanded="false" />
-            <element signature="e#1323#1371#0" expanded="false" />
-            <element signature="e#1392#1448#0" expanded="false" />
-            <element signature="e#1477#1498#0" expanded="false" />
-            <element signature="e#1522#1549#0" expanded="false" />
-            <element signature="e#1557#1630#0" expanded="false" />
-            <element signature="e#1651#1745#0" expanded="false" />
-            <element signature="e#1759#1850#0" expanded="false" />
-            <element signature="e#1854#1880#0" expanded="false" />
-            <element signature="e#1894#1942#0" expanded="false" />
-            <element signature="e#1963#1987#0" expanded="false" />
-            <element signature="e#2003#2064#0" expanded="false" />
-            <element signature="e#2101#2133#0" expanded="false" />
-            <element signature="e#2154#2199#0" expanded="false" />
-            <element signature="e#2225#2268#0" expanded="false" />
-            <element signature="e#2341#2362#0" expanded="false" />
-            <element signature="e#2393#2421#0" expanded="false" />
-            <element signature="e#2439#2568#0" expanded="false" />
-            <element signature="e#2589#2613#0" expanded="false" />
-            <element signature="e#2645#2669#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="26" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-            <element signature="e#71#107#0" expanded="false" />
-            <element signature="e#180#203#0" expanded="false" />
-            <element signature="e#1300#1330#0" expanded="false" />
-            <element signature="e#1547#1598#0" expanded="false" />
-            <element signature="e#1943#1994#0" expanded="false" />
-            <element signature="e#2015#2039#0" expanded="false" />
-            <element signature="e#2060#2093#0" expanded="false" />
-            <element signature="e#2098#2140#0" expanded="false" />
-            <element signature="e#2145#2187#0" expanded="false" />
-            <element signature="e#2192#2259#0" expanded="false" />
-            <element signature="e#2263#2290#0" expanded="false" />
-            <element signature="e#2297#2323#0" expanded="false" />
-            <element signature="e#2337#2361#0" expanded="false" />
-            <element signature="e#2376#2410#0" expanded="false" />
-            <element signature="e#2621#2655#0" expanded="false" />
-            <element signature="e#2850#2875#0" expanded="false" />
-            <element signature="e#3216#3685#0" expanded="false" />
-            <element signature="e#3724#3750#0" expanded="false" />
-            <element signature="e#3848#3920#0" expanded="false" />
-            <element signature="e#4037#4075#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1496,11 +1304,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="668" column="4" selection-start="28714" selection-end="28714" vertical-scroll-proportion="0.2829912">
+        <state line="1122" column="6" selection-start="44880" selection-end="44880" vertical-scroll-proportion="-18.307692">
           <folding>
+            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="177" column="24" selection-start="2584" selection-end="2584" vertical-scroll-proportion="0.5690141">
+          <folding />
         </state>
       </provider>
     </entry>

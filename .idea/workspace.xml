@@ -2,166 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flat-UI-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flat-UI-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flat-UI-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/image-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/image-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/image-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-black-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-black-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-black-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bolditalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bolditalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bolditalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-light-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/switch/mask-square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/switch/mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flat-UI-Icons.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Flat-UI-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/android.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/android1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/app-store.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/art.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/bag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/basket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/book.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-switch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/bowling.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/brush.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/building.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/bulb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/button.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/calculator.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/car.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/card.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/chair.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/chat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/clipboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/clocks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/compas.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/converse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/cup.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/dj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/donut.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/dude.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/dynamite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/earth.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/egg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/eye.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/file.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/fit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/flag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/flask.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/flower.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/games.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/gift-box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/girl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/goal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/google .svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/graph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icecream.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon-session.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/icon-font-ie7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/imac.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/ipad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/iphone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.0.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui-1.10.3.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.tagsinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/key.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-black-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-bolditalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lato/lato-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/lettersymbol.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/lock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/loop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/macbook.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/magic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/magicmouse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/map.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/medal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/mic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/money.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/mortarboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/mountain.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/news.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/paper-bag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/pc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/pencil.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/pencils.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/picture.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/pig.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/pills.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/printer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/responsive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/retina.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/ring.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/rocket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/rss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/safe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/save.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/settings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/shield.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/shirt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/skateboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/spray.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/storage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/support.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/ticket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/toilet-paper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/touch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/trash.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/trip-bag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/trunk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/ubmrella.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/user-interface.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/weather.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/wi-fi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/wine.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/yinyang.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProStyleGuide.htm" afterPath="$PROJECT_DIR$/ProStyleGuide.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap-select.js" afterPath="$PROJECT_DIR$/js/bootstrap-select.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flat-ui.css" afterPath="$PROJECT_DIR$/css/flat-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/flatui-checkbox.js" afterPath="$PROJECT_DIR$/js/flatui-checkbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/flatui-radio.js" afterPath="$PROJECT_DIR$/js/flatui-radio.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384532624609" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384535545311" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384458567483" ignored="false" />
-    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384532892282" ignored="false" />
+    <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384535959120" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/templates/ab_testing/ab_test_list.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463611367" ignored="false" />
     <file path="/*.regexp" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384533221883" ignored="false" />
@@ -953,7 +801,7 @@
       <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="603" column="9" selection-start="26668" selection-end="26668" vertical-scroll-proportion="0.49162862">
+            <state line="1073" column="20" selection-start="43707" selection-end="43707" vertical-scroll-proportion="0.44292238">
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1261,7 +1109,11 @@
       <created>1384532635817</created>
       <updated>1384532635817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Clean up">
+      <created>1384535631433</created>
+      <updated>1384535631433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1586,7 +1438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="603" column="9" selection-start="26668" selection-end="26668" vertical-scroll-proportion="0.49162862">
+        <state line="1073" column="20" selection-start="43707" selection-end="43707" vertical-scroll-proportion="0.44292238">
           <folding>
             <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />

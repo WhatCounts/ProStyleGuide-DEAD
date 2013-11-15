@@ -60,6 +60,10 @@ thead > tr > .headerSortDown {
     cursor: pointer;
 }
 
+.form-table td {
+    padding-bottom: 7px;
+}
+
 .datepicker {
     float: right;
 }

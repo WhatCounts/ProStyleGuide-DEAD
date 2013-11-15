@@ -47,11 +47,13 @@ p {
 }
 
 thead > tr > .headerSortUp {
-    background: url("../images/tables/asc.png") right center no-repeat;
+    background: url("../images/tables/asc.png") left center no-repeat;
+    padding-left: 15px !important;
 }
 
 thead > tr > .headerSortDown {
-    background: url("../images/tables/desc.png") right center no-repeat;
+    background: url("../images/tables/desc.png") left center no-repeat;
+    padding-left: 15px !important;
 }
 
 .table-sort > thead > tr > th{

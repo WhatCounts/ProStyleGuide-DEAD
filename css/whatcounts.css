@@ -991,6 +991,8 @@ ul {
     width: 105%;
 }
 
+input { outline: none; }
+
 input.error-field{
     background-color: #FCDEDE !important;
 }

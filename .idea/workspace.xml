@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b852a0-4cd7-47c8-a442-2278ca7917f7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/whatcounts.css" afterPath="$PROJECT_DIR$/css/whatcounts.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384546379837" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384547142199" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384546352418" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384545332334" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -791,10 +792,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="flat-ui-professional-overrides.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="122" column="0" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.6978998">
+            <state line="126" column="25" selection-start="3308" selection-end="3308" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -812,12 +813,8 @@
       <file leaf-file-name="ProStyleGuide.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="30" selection-start="1500" selection-end="1500" vertical-scroll-proportion="-13.038462">
-              <folding>
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="32" column="30" selection-start="1500" selection-end="1500" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -831,10 +828,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whatcounts.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="whatcounts.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/whatcounts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="30" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0">
+            <state line="972" column="0" selection-start="16255" selection-end="16255" vertical-scroll-proportion="0.5977918">
               <folding>
                 <element signature="e#30#150#0" expanded="false" />
                 <element signature="e#159#182#0" expanded="false" />
@@ -845,6 +842,10 @@
                 <element signature="e#549#587#0" expanded="false" />
                 <element signature="e#602#651#0" expanded="false" />
                 <element signature="e#677#711#0" expanded="false" />
+                <element signature="e#740#849#0" expanded="false" />
+                <element signature="e#880#990#0" expanded="false" />
+                <element signature="e#1021#1045#0" expanded="false" />
+                <element signature="e#1062#1090#0" expanded="false" />
                 <element signature="e#1104#1125#0" expanded="false" />
                 <element signature="e#1143#1236#0" expanded="false" />
                 <element signature="e#1271#1307#0" expanded="false" />
@@ -1014,8 +1015,8 @@
                 <element signature="e#16277#16398#0" expanded="false" />
                 <element signature="e#16417#16442#0" expanded="false" />
                 <element signature="e#16455#16582#0" expanded="false" />
-                <element signature="e#16601#16646#0" expanded="false" />
-                <element signature="e#16654#16677#0" expanded="false" />
+                <element signature="e#16627#16672#0" expanded="false" />
+                <element signature="e#16680#16703#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -1044,8 +1045,8 @@
         <option value="$PROJECT_DIR$/css/flat-ui.css" />
         <option value="$PROJECT_DIR$/Deleteme.html" />
         <option value="$PROJECT_DIR$/ProStyleGuide.htm" />
-        <option value="$PROJECT_DIR$/css/whatcounts.css" />
         <option value="$PROJECT_DIR$/css/flat-ui-professional-overrides.css" />
+        <option value="$PROJECT_DIR$/css/whatcounts.css" />
       </list>
     </option>
   </component>
@@ -1081,6 +1082,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -1130,7 +1132,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1146,8 +1147,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1162,19 +1163,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1205,6 +1193,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1218,6 +1219,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1239,13 +1247,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -1370,7 +1371,7 @@
     <frame x="-4" y="-4" width="1608" height="880" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10354223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10326087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1381,18 +1382,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.8964578" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967825" sideWeight="0.8967391" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1499,11 +1500,7 @@
     <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="1219" selection-end="44980" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1576,9 +1573,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="30" selection-start="1500" selection-end="1500" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="25" selection-start="3308" selection-end="3308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/whatcounts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="30" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0">
+        <state line="972" column="0" selection-start="16255" selection-end="16255" vertical-scroll-proportion="0.5977918">
           <folding>
             <element signature="e#30#150#0" expanded="false" />
             <element signature="e#159#182#0" expanded="false" />
@@ -1589,6 +1600,10 @@
             <element signature="e#549#587#0" expanded="false" />
             <element signature="e#602#651#0" expanded="false" />
             <element signature="e#677#711#0" expanded="false" />
+            <element signature="e#740#849#0" expanded="false" />
+            <element signature="e#880#990#0" expanded="false" />
+            <element signature="e#1021#1045#0" expanded="false" />
+            <element signature="e#1062#1090#0" expanded="false" />
             <element signature="e#1104#1125#0" expanded="false" />
             <element signature="e#1143#1236#0" expanded="false" />
             <element signature="e#1271#1307#0" expanded="false" />
@@ -1758,27 +1773,9 @@
             <element signature="e#16277#16398#0" expanded="false" />
             <element signature="e#16417#16442#0" expanded="false" />
             <element signature="e#16455#16582#0" expanded="false" />
-            <element signature="e#16601#16646#0" expanded="false" />
-            <element signature="e#16654#16677#0" expanded="false" />
+            <element signature="e#16627#16672#0" expanded="false" />
+            <element signature="e#16680#16703#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProStyleGuide.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="30" selection-start="1500" selection-end="1500" vertical-scroll-proportion="-13.038462">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/flat-ui-professional-overrides.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="0" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.6978998">
-          <folding />
         </state>
       </provider>
     </entry>

@@ -179,6 +179,18 @@ p {
     position: relative;
 }
 
+.input-prepend > button {
+    margin-top: 1px;
+    position: absolute;
+}
+
+.input-prepend > input {
+    border-radius: 0 4px 4px 0;
+    left: 43px;
+    position: relative;
+    width: 75%;
+}
+
 /*HEADER TAGS*/
 
 h5{

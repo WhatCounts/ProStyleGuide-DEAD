@@ -616,7 +616,7 @@
                 <input type="text" id="DatePickerExample" value="14" class="form-control">
             </div>
         </div>
-</li>
+    </li>
     <li>number: <label>
         <input type="number"/>
     </label></li>
@@ -633,7 +633,8 @@
                 <label for="appendedInputButton-02"></label><input type="search" placeholder="Search"
                                                                    id="appendedInputButton-02" class="form-control">
 	            <span class="input-group-btn">
-	            	<button type="button" class="btn btn-default"><span class="fui-search" title="Search"></span></button>
+	            	<button type="button" class="btn btn-default"><span class="fui-search" title="Search"></span>
+                    </button>
 	            </span>
             </div>
         </div>
@@ -937,9 +938,18 @@ Required Attributes
 <ul>
     <li>All tables must have an ID attribute.</li>
 </ul>
-<p>All tables that implement the table-sort class are made sortable automatically by the system. You can make other
-    tables sortable, by calling the $(selector).tablesorter() method, with options provided, to allow for specialized
-    table sorting. See the section on <a href="#ButtonPlacement">Button Placement</a> for an example.</p>
+<p>All tables that implement the .table-sort class are made sortable automatically by the system. By default, the
+    following classes can be added to a table header (th) tag to provide extended functionality on tables (support for
+    date-time and comma-separated numeric sorting, and column exclusion). The classes are:
+
+<ul>
+    <li>Comma-separated number: .is-numeric</li>
+    <li>Date-time: .is-date</li>
+    <li>Excluded: .no-sort</li>
+</ul>
+
+You can make other tables sortable, by calling the $(selector).tablesorter() method, with options provided, to allow for
+specialized table sorting. See the section on <a href="#ButtonPlacement">Button Placement</a> for an example.</p>
 
 <p>The following table is Sortable:</p>
 

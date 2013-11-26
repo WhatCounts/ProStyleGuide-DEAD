@@ -7,7 +7,7 @@
     </list>
     <ignored path="ProStyleGuide.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1385424030020" ignored="false" />
+    <file path="/Dummy.txt" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1385501114436" ignored="false" />
     <file path="/flat-ui-professional-overrides.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384546352418" ignored="false" />
     <file path="/ProStyleGuide.htm" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384551003153" ignored="false" />
     <file path="/a.dummy" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384463570971" ignored="false" />
@@ -691,7 +691,7 @@
     <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_social.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464674883" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/templates/listmgmt/runlist_wizard/runlist_status.ftl" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384464697709" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/generated/site/metadata/web.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384476710392" ignored="false" />
-    <file path="C:/WhatCountsSource/Trunk/site/html/style_guide/style_guide.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384545611186" ignored="false" />
+    <file path="C:/WhatCountsSource/Trunk/site/html/style_guide/style_guide.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1385424364643" ignored="false" />
     <file path="/style_guide.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384476372249" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/html/css/style_guide/style_guide.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384477679360" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/deploy/bin/resources/db/master.xml" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384475708346" ignored="false" />
@@ -725,7 +725,7 @@
     <file path="/whatcounts.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384543573071" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/site/html/css/whatcounts.css" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384547333998" ignored="false" />
     <file path="C:/WhatCountsSource/Trunk/src/whatcounts/servlets/authenticated/purl_manager.java" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1384548205567" ignored="false" />
-    <file path="/index.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1385424268553" ignored="false" />
+    <file path="/index.html" changelist="04b852a0-4cd7-47c8-a442-2278ca7917f7" time="1385501240943" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -740,7 +740,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -777,6 +776,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -789,8 +789,11 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="951" column="34" selection-start="41375" selection-end="41375" vertical-scroll-proportion="0.5902192">
-              <folding />
+            <state line="1131" column="29" selection-start="48280" selection-end="48280" vertical-scroll-proportion="0.22596964">
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -856,8 +859,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -878,6 +879,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1118,7 +1121,11 @@
       <created>1384551104928</created>
       <updated>1384551104928</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update information on additional standard table sorting func">
+      <created>1385424324035</created>
+      <updated>1385424324035</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1194,7 +1201,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix date picker." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update information on additional standard table sorting func" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1227,6 +1234,7 @@
     <MESSAGE value="Fix dropdown thing." />
     <MESSAGE value="Remove Chrome outline" />
     <MESSAGE value="Fix date picker." />
+    <MESSAGE value="Update information on additional standard table sorting func" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1317,8 +1325,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="951" column="34" selection-start="41375" selection-end="41375" vertical-scroll-proportion="0.5902192">
-          <folding />
+        <state line="1131" column="29" selection-start="48280" selection-end="48280" vertical-scroll-proportion="0.22596964">
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#9;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#12;n#section#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

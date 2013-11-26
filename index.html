@@ -1127,7 +1127,9 @@ specialized table sorting. See the section on <a href="#ButtonPlacement">Button 
 
     <p>Dialog boxes should be constructed using Bootstrap modals. You can launch a modal by adding data attributes to
         the button you want the modal to launch from. Two attributes are required: data-toggle="modal", and
-        data-target="#IdOfModal". An example is below, that uses data attributes to launch the modal:</p>
+        data-target="#IdOfModal". Note, as well, the use of the data-dismiss attribute (e.g., data-dismiss="modal"), to
+        automatically wire up a button to close the modal dialog. An' example is below, that uses data attributes to
+        launch the modal:</p>
 
     <p>
         <button id="OpenDialog" class="btn btn-primary" data-toggle="modal" data-target="#ExampleModal">Open Dialog
@@ -1147,7 +1149,7 @@ specialized table sorting. See the section on <a href="#ButtonPlacement">Button 
 
                 </div>
                 <div class="modal-footer">
-                    <button id="ModalClose" class="btn btn-primary">Close</button>
+                    <button id="ModalClose" class="btn btn-primary" data-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
